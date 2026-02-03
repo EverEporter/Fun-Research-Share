@@ -1,0 +1,17 @@
+config
+data/reports/*
+ocr_output/*
+ocr_MinerU/ocr_files/*
+ocr_MinerU/1_batch/*
+ocr_MinerU/2_result/*
+ocr_MinerU/__pycache__/*
+ocr_MinerU/
+.cursorignore
+1_获取研报链接.py
+2_研报资源抓取.py
+4_汇总.py
+Auto_Run_minerU.py
+log
+script.bat
+.pw-profile-report-tool/*
+🌟重要文件夹/*

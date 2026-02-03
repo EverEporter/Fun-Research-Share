@@ -1,0 +1,615 @@
+[
+  {
+    "title": "基金专题报告：强化学习在大类资产配置中的应用初探",
+    "link": "https://robo.datayes.com/v2/details/report/8304185",
+    "time": "2025-12-31",
+    "org_name": "渤海证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8304185",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/3ff9f6181b3b165acb92a4d3c7cc72a7.pdf",
+    "status": "success"
+  },
+  {
+    "title": "公募基金2026年配置策略报告：类债防守+科技进攻+风险对冲",
+    "link": "https://robo.datayes.com/v2/details/report/8303026",
+    "time": "2025-12-30",
+    "org_name": "华龙证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8303026",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/a441a27ad26d8717eeaa324b7adaa004.pdf",
+    "status": "success"
+  },
+  {
+    "title": "TS策略每日信号跟踪",
+    "link": "https://robo.datayes.com/v2/details/report/8303014",
+    "time": "2025-12-29",
+    "org_name": "华龙证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8303014",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/887246eaf2a22baedbdcd85524bd8f17.pdf",
+    "status": "success"
+  },
+  {
+    "title": "公募基金市场观察系列：被动投资升温，聚焦多元化ETF配置与指数增强基金",
+    "link": "https://robo.datayes.com/v2/details/report/8300794",
+    "time": "2025-12-28",
+    "org_name": "银河证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8300794",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/4bfaaf6e17b70aa9ed0497ac22f2fb89.pdf",
+    "status": "success"
+  },
+  {
+    "title": "TS策略每日信号跟踪",
+    "link": "https://robo.datayes.com/v2/details/report/8288350",
+    "time": "2025-12-25",
+    "org_name": "华龙证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8288350",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/5f2d07407edcc1cf69eb8b74471814c0.pdf",
+    "status": "success"
+  },
+  {
+    "title": "股票型ETF每日交易数据跟踪",
+    "link": "https://robo.datayes.com/v2/details/report/8288349",
+    "time": "2025-12-25",
+    "org_name": "华龙证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8288349",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/44d60b75aabd6a971a9adfc3c9392795.pdf",
+    "status": "success"
+  },
+  {
+    "title": "TS策略每日信号跟踪",
+    "link": "https://robo.datayes.com/v2/details/report/8275465",
+    "time": "2025-12-25",
+    "org_name": "华龙证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8275465",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/64fdd1e2ce2f03b3e37f8d4364a30666.pdf",
+    "status": "success"
+  },
+  {
+    "title": "TS策略每日信号跟踪",
+    "link": "https://robo.datayes.com/v2/details/report/8275377",
+    "time": "2025-12-25",
+    "org_name": "华龙证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8275377",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/454b681a9669f9766d54deae72869b5a.pdf",
+    "status": "success"
+  },
+  {
+    "title": "TS策略每日信号跟踪",
+    "link": "https://robo.datayes.com/v2/details/report/8275339",
+    "time": "2025-12-25",
+    "org_name": "华龙证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8275339",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/a9530d1c3d22db821114ecf55a4dfb58.pdf",
+    "status": "success"
+  },
+  {
+    "title": "股票型ETF每日交易数据跟踪",
+    "link": "https://robo.datayes.com/v2/details/report/8275340",
+    "time": "2025-12-25",
+    "org_name": "华龙证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8275340",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/6389b706411683078017a0bd4ccaac99.pdf",
+    "status": "success"
+  },
+  {
+    "title": "股票型ETF每日交易数据跟踪",
+    "link": "https://robo.datayes.com/v2/details/report/8269204",
+    "time": "2025-12-23",
+    "org_name": "华龙证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8269204",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/ff197fe1c801071810ccaeb9c0e6baa3.pdf",
+    "status": "success"
+  },
+  {
+    "title": "股票型ETF每日交易数据跟踪",
+    "link": "https://robo.datayes.com/v2/details/report/8263303",
+    "time": "2025-12-22",
+    "org_name": "华龙证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8263303",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/003659c3e02975c6372854aa660ef5fa.pdf",
+    "status": "success"
+  },
+  {
+    "title": "ETF周报（20251215-20251219）",
+    "link": "https://robo.datayes.com/v2/details/report/8263198",
+    "time": "2025-12-22",
+    "org_name": "麦高证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8263198",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/aecb6566f25c6275c5fb7d952a0f21a2.pdf",
+    "status": "success"
+  },
+  {
+    "title": "投资者微观行为洞察手册・12 月第 3 期：ETF 大幅流入，外资持续流入 A 股",
+    "link": "https://robo.datayes.com/v2/details/report/8302926",
+    "time": "2025-12-22",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8302926",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/6b7bc346bec81f3b9cd5f3a1637b3d53.pdf",
+    "status": "success"
+  },
+  {
+    "title": "行业轮动ETF策略周报(20251215-20251219)",
+    "link": "https://robo.datayes.com/v2/details/report/8262676",
+    "time": "2025-12-22",
+    "org_name": "金融街证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8262676",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/7eba5f904eee037c3e6d194c4b76df3e.pdf",
+    "status": "success"
+  },
+  {
+    "title": "公募基金周报：中证A500ETF流入规模超300亿元，中证东盟数字经济主题指数发布",
+    "link": "https://robo.datayes.com/v2/details/report/8268412",
+    "time": "2025-12-22",
+    "org_name": "渤海证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8268412",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/0090e9d2b85d5657a85fd71497341ec8.pdf",
+    "status": "success"
+  },
+  {
+    "title": "北交所专题报告（三）：两年定开主题基金开放窗口已至，或迎来配置机遇",
+    "link": "https://robo.datayes.com/v2/details/report/8260868",
+    "time": "2025-12-21",
+    "org_name": "金融街证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8260868",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/5b3c784d14bf341946b6847726c3d33f.pdf",
+    "status": "success"
+  },
+  {
+    "title": "年内新成立ETF-FOF产品规模已超28亿",
+    "link": "https://robo.datayes.com/v2/details/report/8263234",
+    "time": "2025-12-18",
+    "org_name": "财信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8263234",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/79c1dd9892c2b7d982d0dc0aeec3fec0.pdf",
+    "status": "success"
+  },
+  {
+    "title": "TS策略每日信号跟踪",
+    "link": "https://robo.datayes.com/v2/details/report/8253378",
+    "time": "2025-12-17",
+    "org_name": "华龙证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8253378",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/14edb0e78887a0f7d05f32096927dc97.pdf",
+    "status": "success"
+  },
+  {
+    "title": "ETF基金周报：资金布局红利类策略趋势明显",
+    "link": "https://robo.datayes.com/v2/details/report/8242455",
+    "time": "2025-12-16",
+    "org_name": "东莞证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8242455",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/db06101d159947d7f57e1c739c66f275.pdf",
+    "status": "success"
+  },
+  {
+    "title": "基金周报：中债利率下行，本周新基金发行速度整体放缓",
+    "link": "https://robo.datayes.com/v2/details/report/8241880",
+    "time": "2025-12-16",
+    "org_name": "财信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8241880",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/5107d1909e15482e892418ea8470945a.pdf",
+    "status": "success"
+  },
+  {
+    "title": "跟踪资金流系列专题（四）：基于 ETF 持有人结构资金流因子的行业轮动策略",
+    "link": "https://robo.datayes.com/v2/details/report/8243727",
+    "time": "2025-12-16",
+    "org_name": "国金证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8243727",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/8bab1e2ecd4233dfd0879600e7c2adb0.pdf",
+    "status": "success"
+  },
+  {
+    "title": "ETF策略指数跟踪周报",
+    "link": "https://robo.datayes.com/v2/details/report/8252309",
+    "time": "2025-12-15",
+    "org_name": "华宝证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8252309",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/178c4d1653a13d3f6a6eceb303d144fe.pdf",
+    "status": "success"
+  },
+  {
+    "title": "基金市场2026年年度策略报告：守静笃，再平衡",
+    "link": "https://robo.datayes.com/v2/details/report/8234336",
+    "time": "2025-12-12",
+    "org_name": "财信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8234336",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/7c76a1d75b9b4b1df564dab258a84231.pdf",
+    "status": "success"
+  },
+  {
+    "title": "基金配置策略报告：静待春季行情，延续均衡配置",
+    "link": "https://robo.datayes.com/v2/details/report/8232057",
+    "time": "2025-12-11",
+    "org_name": "华宝证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8232057",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/8f80f5b2fe447d1bba4dca54ad25e93c.pdf",
+    "status": "success"
+  },
+  {
+    "title": "ETF基金周报：中证A500类ETF基金获资金青睐",
+    "link": "https://robo.datayes.com/v2/details/report/8227858",
+    "time": "2025-12-09",
+    "org_name": "东莞证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8227858",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/807d350a574822db9ef1a2611bcbf597.pdf",
+    "status": "success"
+  },
+  {
+    "title": "ETF科普系列：ETF托管结算业务概览，券结与降费重塑机构生态",
+    "link": "https://robo.datayes.com/v2/details/report/8206552",
+    "time": "2025-12-03",
+    "org_name": "金融街证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8206552",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/40f9f49bcf74e899148d96d971ef8953.pdf",
+    "status": "success"
+  },
+  {
+    "title": "公募基金2026年年度投资策略：风险偏好持续上升，成长风格占据市场主导",
+    "link": "https://robo.datayes.com/v2/details/report/8204887",
+    "time": "2025-12-03",
+    "org_name": "渤海证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8204887",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/9d9efd52af90534b988344511d157406.pdf",
+    "status": "success"
+  },
+  {
+    "title": "ETF组合策略月度跟踪报告（2025年11月）",
+    "link": "https://robo.datayes.com/v2/details/report/8204055",
+    "time": "2025-12-02",
+    "org_name": "上海证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8204055",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/19d47a90dc5319ca968df7ef5a4ee4d4.pdf",
+    "status": "success"
+  },
+  {
+    "title": "国泰海通证券12月基金投资策略：A 股出现阶段性回调，相对偏向成长配置风格",
+    "link": "https://robo.datayes.com/v2/details/report/8202164",
+    "time": "2025-12-01",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8202164",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/79e43dc3c3eebcf2c67fd366b30b54a2.pdf",
+    "status": "success"
+  },
+  {
+    "title": "行业轮动ETF策略周报",
+    "link": "https://robo.datayes.com/v2/details/report/8198392",
+    "time": "2025-12-01",
+    "org_name": "金融街证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8198392",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/0a91726a9839164d78ac338b18dc4634.pdf",
+    "status": "success"
+  },
+  {
+    "title": "基金市场周报：银行板块表现较优，主动投资债券基金平均收益相对领先",
+    "link": "https://robo.datayes.com/v2/details/report/8186083",
+    "time": "2025-11-26",
+    "org_name": "上海证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8186083",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17619264/91469bf7924673ad8952f751f0fa6386.pdf",
+    "status": "success"
+  },
+  {
+    "title": "“千问”开启公测，将如何改变AI应用生态格局？",
+    "link": "https://robo.datayes.com/v2/details/report/8185794",
+    "time": "2025-11-26",
+    "org_name": "大同证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8185794",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17619264/c36737ece004ce64dd34b029c65e117f.pdf",
+    "status": "success"
+  },
+  {
+    "title": "公募指增及量化基金经理精选系列十：自适应与解释性共进，算法博弈复杂市场",
+    "link": "https://robo.datayes.com/v2/details/report/8186523",
+    "time": "2025-11-25",
+    "org_name": "国金证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8186523",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17619264/2de4f8fd324739f20eb26054e1f4f0aa.pdf",
+    "status": "success"
+  },
+  {
+    "title": "行业轮动ETF策略周报",
+    "link": "https://robo.datayes.com/v2/details/report/8168380",
+    "time": "2025-11-24",
+    "org_name": "金融街证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8168380",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17619264/63ab21daad9e387b0973a25c32b1c0b6.pdf",
+    "status": "success"
+  },
+  {
+    "title": "公募基金2026上半年投资策略：（可公开）以盈利为帆，配置下一轮阿尔法",
+    "link": "https://robo.datayes.com/v2/details/report/8159321",
+    "time": "2025-11-20",
+    "org_name": "东莞证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8159321",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17619264/4d4d13b5c5714a77442bde2a7b79eb47.pdf",
+    "status": "success"
+  },
+  {
+    "title": "ETF配置策略跟踪报告：市场风格再平衡，均衡配置为主",
+    "link": "https://robo.datayes.com/v2/details/report/8154310",
+    "time": "2025-11-20",
+    "org_name": "华龙证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8154310",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17619264/2b312740652b011730b5b2f815ea3ae7.pdf",
+    "status": "success"
+  },
+  {
+    "title": "基金分析报告：核心资产基金池：超额稳中有升",
+    "link": "https://robo.datayes.com/v2/details/report/8037812",
+    "time": "2025-11-18",
+    "org_name": "民生证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8037812",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17619264/60cad7236c5e5a9c35aaaad5d028f1ab.pdf",
+    "status": "success"
+  },
+  {
+    "title": "成长价值基金池202511：高年度胜率",
+    "link": "https://robo.datayes.com/v2/details/report/8037793",
+    "time": "2025-11-18",
+    "org_name": "民生证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8037793",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17619264/b8cade5c586c3b6f38a43942cda76144.pdf",
+    "status": "success"
+  },
+  {
+    "title": "基金分析报告：深度价值基金池：保持绝对收益",
+    "link": "https://robo.datayes.com/v2/details/report/8037774",
+    "time": "2025-11-18",
+    "org_name": "民生证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8037774",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17619264/7933705698742fc2b6f77716dc213c04.pdf",
+    "status": "success"
+  },
+  {
+    "title": "银河金工公募基金市场观察系列研究：主动权益基金发展现状与配置策略",
+    "link": "https://robo.datayes.com/v2/details/report/8304915",
+    "time": "2025-12-31",
+    "org_name": "银河证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8304915",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/edaa97c594b3991c7aba7abffa961a20.pdf",
+    "status": "success"
+  },
+  {
+    "title": "股票型ETF基金2025年业绩分析报告：资产配置更趋“哑铃化”与“理性化”",
+    "link": "https://robo.datayes.com/v2/details/report/8304815",
+    "time": "2025-12-31",
+    "org_name": "华龙证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8304815",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/42eb948457aebc42d6e041fb3963d278.pdf",
+    "status": "success"
+  },
+  {
+    "title": "股票型ETF每日交易数据跟踪",
+    "link": "https://robo.datayes.com/v2/details/report/8304812",
+    "time": "2025-12-31",
+    "org_name": "华龙证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8304812",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/4236004c580b3cd6143601735709598f.pdf",
+    "status": "success"
+  },
+  {
+    "title": "TS策略每日信号跟踪",
+    "link": "https://robo.datayes.com/v2/details/report/8304582",
+    "time": "2025-12-31",
+    "org_name": "华龙证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8304582",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17645184/b7baa12be1fe0901d9bce51eb97dae8b.pdf",
+    "status": "success"
+  },
+  {
+    "title": "CES2026即将开幕，如何抓住上车机会？",
+    "link": "https://robo.datayes.com/v2/details/report/8308460",
+    "time": "2026-01-05",
+    "org_name": "大同证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8308460",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/ee45282caa509fef4524688516415d82.pdf",
+    "status": "success"
+  },
+  {
+    "title": "国泰量化策略收益A：打造“宏观研判+多策略”主动量化框架",
+    "link": "https://robo.datayes.com/v2/details/report/8308482",
+    "time": "2025-12-31",
+    "org_name": "西南证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8308482",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/6ae284fa1490e9215ac89589ba2a1354.pdf",
+    "status": "success"
+  },
+  {
+    "title": "TS策略每日信号跟踪",
+    "link": "https://robo.datayes.com/v2/details/report/8307776",
+    "time": "2025-12-31",
+    "org_name": "华龙证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8307776",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/59a93fc02bc9ccf4bd0f618e5759fc6a.pdf",
+    "status": "success"
+  },
+  {
+    "title": "REITs市场跟踪双周报：两只REITs扩募完成，二级市场表现分化",
+    "link": "https://robo.datayes.com/v2/details/report/8309008",
+    "time": "2025-12-29",
+    "org_name": "上海证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8309008",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/9e64aa33849a87f0b254d9c083a6994e.pdf",
+    "status": "success"
+  },
+  {
+    "title": "25Q4基金季报专题研究：四类基金画像：加仓、减仓、调仓、极致风格",
+    "link": "https://robo.datayes.com/v2/details/report/8375765",
+    "time": "2026-01-30",
+    "org_name": "华创证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8375765",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/ac2f13e331b89594202e03e74f15d10a.pdf",
+    "status": "success"
+  },
+  {
+    "title": "25Q4基金持仓及文本透视：布局顺周期，基金经理如何展望2026？",
+    "link": "https://robo.datayes.com/v2/details/report/8366549",
+    "time": "2026-01-27",
+    "org_name": "东方财富证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8366549",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/81f6e8d97ae04605db2a91231f5509f2.pdf",
+    "status": "success"
+  },
+  {
+    "title": "2026年量化和基金研究年度策略：公募新规下的ETF组合投资元年",
+    "link": "https://robo.datayes.com/v2/details/report/8365836",
+    "time": "2026-01-27",
+    "org_name": "华鑫证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8365836",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/044f7f092ec56e3405f91b180f959629.pdf",
+    "status": "success"
+  },
+  {
+    "title": "基金研究周报：酒泉市商业航天产业发展规划出炉，可关注哪些机会？",
+    "link": "https://robo.datayes.com/v2/details/report/8365857",
+    "time": "2026-01-26",
+    "org_name": "大同证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8365857",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/0856a955714fa22d4c19535e3f3b8800.pdf",
+    "status": "success"
+  },
+  {
+    "title": "2025年四季度基金持仓分析：负债端压力缓解",
+    "link": "https://robo.datayes.com/v2/details/report/8364974",
+    "time": "2026-01-26",
+    "org_name": "华泰证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8364974",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/798f46409fb0382b2a6646a93ef5e69a.pdf",
+    "status": "success"
+  },
+  {
+    "title": "宽基ETF资金大幅流出：规模，节奏与影响",
+    "link": "https://robo.datayes.com/v2/details/report/8360115",
+    "time": "2026-01-25",
+    "org_name": "中泰证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8360115",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/7053a34e7f082f94607a2b16997e9794.pdf",
+    "status": "success"
+  },
+  {
+    "title": "策略周评 20260124：基金四季报，透露了哪些重要线索？",
+    "link": "https://robo.datayes.com/v2/details/report/8358194",
+    "time": "2026-01-25",
+    "org_name": "东吴证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8358194",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/15bc751458c95d0e0661d740216f39b6.pdf",
+    "status": "success"
+  },
+  {
+    "title": "2025Q4基金持仓分析：Q4基金动向：增配AI基建与价值股",
+    "link": "https://robo.datayes.com/v2/details/report/8358098",
+    "time": "2026-01-24",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8358098",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/6709a84eb94884aebdb50652f49b6ca3.pdf",
+    "status": "success"
+  },
+  {
+    "title": "2025Q4基金仓位解析：四季度基金调仓五大看点",
+    "link": "https://robo.datayes.com/v2/details/report/8357086",
+    "time": "2026-01-23",
+    "org_name": "国盛证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8357086",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/f3da6948aa6c5e059c2bcc75f3b04698.pdf",
+    "status": "success"
+  },
+  {
+    "title": "25Q4基金季报点评：加周期金融地产，减消费TMT",
+    "link": "https://robo.datayes.com/v2/details/report/8357024",
+    "time": "2026-01-23",
+    "org_name": "华创证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8357024",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/f6d747cb273b7ded2c241b808f8d0913.pdf",
+    "status": "success"
+  },
+  {
+    "title": "公募基金2025年四季度持仓有哪些看点？",
+    "link": "https://robo.datayes.com/v2/details/report/8356474",
+    "time": "2026-01-23",
+    "org_name": "银河证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8356474",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/1edd553de5498751294c18c5d636c950.pdf",
+    "status": "success"
+  },
+  {
+    "title": "2026年度公募主动权益基金投资策略及基金经理精选：莫道桑榆晚，为霞尚满天",
+    "link": "https://robo.datayes.com/v2/details/report/8354772",
+    "time": "2026-01-22",
+    "org_name": "国金证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8354772",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/f856ef08a676bb6fe5c0f33e68f6a439.pdf",
+    "status": "success"
+  },
+  {
+    "title": "公募基金2025年四季报点评：减科技消费，加周期制造",
+    "link": "https://robo.datayes.com/v2/details/report/8354719",
+    "time": "2026-01-22",
+    "org_name": "国信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8354719",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/301c86c260d9e8490e83cb0e64a84b29.pdf",
+    "status": "success"
+  },
+  {
+    "title": "行业轮动ETF策略周报",
+    "link": "https://robo.datayes.com/v2/details/report/8346198",
+    "time": "2026-01-19",
+    "org_name": "金融街证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8346198",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/fab724f150b85262dea7fc60aa087c82.pdf",
+    "status": "success"
+  },
+  {
+    "title": "1月ETF轮动策略月报",
+    "link": "https://robo.datayes.com/v2/details/report/8339341",
+    "time": "2026-01-14",
+    "org_name": "利得基金",
+    "report_url": "https://robo.datayes.com/v2/details/report/8339341",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/dd1dea30533f84ad6d9dee1bf9bc4d35.pdf",
+    "status": "success"
+  },
+  {
+    "title": "基金配置策略报告（2026年1月期）：权益市场多点开花，建议关注景气主线",
+    "link": "https://robo.datayes.com/v2/details/report/8332840",
+    "time": "2026-01-14",
+    "org_name": "华宝证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8332840",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/8ab20106bd990660130c719fe56e50b2.pdf",
+    "status": "success"
+  },
+  {
+    "title": "2026年度全球资产配置和国内基金投资策略：重塑预期，回归价值",
+    "link": "https://robo.datayes.com/v2/details/report/8324691",
+    "time": "2026-01-09",
+    "org_name": "上海证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8324691",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/ab34a896549a5d28ea00b7f7f1506744.pdf",
+    "status": "success"
+  },
+  {
+    "title": "安信基金陈鹏：专注于成长投资的十七年老将",
+    "link": "https://robo.datayes.com/v2/details/report/8323545",
+    "time": "2026-01-09",
+    "org_name": "大同证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8323545",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/c4c3eb86deb4a05b0e686bf2dc03bcfb.pdf",
+    "status": "success"
+  },
+  {
+    "title": "ETF组合策略月度跟踪报告（2025年12月）",
+    "link": "https://robo.datayes.com/v2/details/report/8318945",
+    "time": "2026-01-09",
+    "org_name": "上海证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8318945",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/6d3c050c3ec254a96f92c2ded4910bf8.pdf",
+    "status": "success"
+  },
+  {
+    "title": "国泰海通证券1月基金投资策略：跨年行情下A股上涨，相对偏向成长配置风格",
+    "link": "https://robo.datayes.com/v2/details/report/8309441",
+    "time": "2026-01-05",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8309441",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/50fd4b2b008a21cc8e11797c4eaf5093.pdf",
+    "status": "success"
+  }
+
+]
