@@ -1,6 +1,9 @@
 config
 data/reports/*
-ocr_output/*
+ocr_output/备份/*
+ocr_output/新建文件夹/*
+ocr_output/ocr_files/*
+ocr_output/.md2xlsx_state.json
 ocr_MinerU/ocr_files/*
 ocr_MinerU/1_batch/*
 ocr_MinerU/2_result/*
