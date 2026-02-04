@@ -682,5 +682,77 @@
     "report_url": "https://robo.datayes.com/v2/details/report/8388003",
     "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/16baf90424c78c4d38c4949f9ba5e2ee.pdf",
     "status": "success"
+  },
+  {
+    "title": "元瞻经纬总量月报（2026年1月）：慢牛深化，长路徐行",
+    "link": "https://robo.datayes.com/v2/details/report/8392127",
+    "time": "2026-02-03",
+    "org_name": "国元证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8392127",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/5d343d0c29c8d5261572f042165b7d0c.pdf",
+    "status": "success"
+  },
+  {
+    "title": "海外宏观策略：宏观预期差为投机情绪降温",
+    "link": "https://robo.datayes.com/v2/details/report/8392046",
+    "time": "2026-02-03",
+    "org_name": "海通国际证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8392046",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/054e939c21233a067921d8c443bcf91c.pdf",
+    "status": "success"
+  },
+  {
+    "title": "第一上海：一月回顾与二月前瞻",
+    "link": "https://robo.datayes.com/v2/details/report/8392014",
+    "time": "2026-02-03",
+    "org_name": "第一上海证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8392014",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/00649ff099a60f523ddd3741090a27f8.pdf",
+    "status": "success"
+  },
+  {
+    "title": "强势反弹，光伏领涨",
+    "link": "https://robo.datayes.com/v2/details/report/8391588",
+    "time": "2026-02-03",
+    "org_name": "德邦证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8391588",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/c39411aa08c13b1f5bcd5372c038e6bd.pdf",
+    "status": "success"
+  },
+  {
+    "title": "策略周报（20260126-20260130）",
+    "link": "https://robo.datayes.com/v2/details/report/8391687",
+    "time": "2026-02-03",
+    "org_name": "麦高证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8391687",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/a58c90abce42d47178cf348a67a598e4.pdf",
+    "status": "success"
+  },
+  {
+    "title": "ETF及指数产品网格策略周报",
+    "link": "https://robo.datayes.com/v2/details/report/8391633",
+    "time": "2026-02-03",
+    "org_name": "华宝证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8391633",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/ea0ca517466b264abc6783aeda1255e5.pdf",
+    "status": "success"
+  },
+  {
+    "title": "全球股市立体投资策略周报 2月第1期：鹰派沃什交易落地，股市波动率攀升",
+    "link": "https://robo.datayes.com/v2/details/report/8391355",
+    "time": "2026-02-03",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8391355",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/aded9c10953caeef456f087d9aebb787.pdf",
+    "status": "success"
+  },
+  {
+    "title": "经济金融高频数据周报（02.02-02.06）",
+    "link": "https://robo.datayes.com/v2/details/report/8391414",
+    "time": "2026-02-03",
+    "org_name": "财信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8391414",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/70a94843412f215d7f31e2b9f8a14972.pdf",
+    "status": "success"
   }
 ]

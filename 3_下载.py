@@ -116,6 +116,14 @@ if __name__ == "__main__":
             "JSON_FILE": os.path.join(os.path.dirname(__file__), "data/add-links", "市场策略-download-links.json"),
             "SAVE_DIR": os.path.join(os.path.dirname(__file__), "data/reports", "市场策略")
         },  
+        {
+            "JSON_FILE": os.path.join(os.path.dirname(__file__), "data/add-links", "金工定期-download-links.json"),
+            "SAVE_DIR": os.path.join(os.path.dirname(__file__), "data/reports", "金工定期")
+        }, 
+        {
+            "JSON_FILE": os.path.join(os.path.dirname(__file__), "data/add-links", "行业点评-download-links.json"),
+            "SAVE_DIR": os.path.join(os.path.dirname(__file__), "data/reports", "行业点评")
+        }, 
     ]
     
     # 遍历执行所有下载任务
