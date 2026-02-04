@@ -565,5 +565,23 @@
     "report_url": "https://robo.datayes.com/v2/details/report/8391676",
     "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/ca4e572114c02f7117565948cd01bf8d.pdf",
     "status": "success"
+  },
+  {
+    "title": "金工ETF点评：宽基ETF本周净流出3890.81亿元，食饮、农林牧渔拥挤变幅较大",
+    "link": "https://robo.datayes.com/v2/details/report/8392203",
+    "time": "2026-02-03",
+    "org_name": "太平洋证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8392203",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/9b1216bc594f82158af09c72c9a3d318.pdf",
+    "status": "success"
+  },
+  {
+    "title": "量化点评报告：二月配置建议：关注美元流动性和情绪指标何时修复",
+    "link": "https://robo.datayes.com/v2/details/report/8392491",
+    "time": "2026-02-03",
+    "org_name": "国盛证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8392491",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/095d5b39a05da8b3ee1052d92c90fe98.pdf",
+    "status": "success"
   }
 ]
