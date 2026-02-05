@@ -383,8 +383,8 @@
     "time": "2026-02-04",
     "org_name": "渤海证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8394428",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"button:has-text('查看/下载')\").first to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/c49814dcaada3d7e9c4e4d59ec9e9f1e.pdf",
+    "status": "success"
   },
   {
     "title": "“学海拾珠”系列之跟踪月报202601",
@@ -392,8 +392,8 @@
     "time": "2026-02-04",
     "org_name": "华安证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8394125",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/d857c3fcfdf98c8df31fd80c84333617.pdf",
+    "status": "success"
   },
   {
     "title": "融资融券2月月报：主要指数全部上涨，两融余额继续上升",
@@ -401,8 +401,8 @@
     "time": "2026-02-04",
     "org_name": "渤海证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8394043",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/d7415e395009c1032bd2f8e09e54cb8e.pdf",
+    "status": "success"
   },
   {
     "title": "A股市场快照：宽基指数每日投资动态",
@@ -410,8 +410,8 @@
     "time": "2026-02-04",
     "org_name": "江海证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8393414",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/5556d417bea115dc3bc5d05a2e13871a.pdf",
+    "status": "success"
   },
   {
     "title": "金融工程日报：沪指 V型反转，太空光伏、商业航天等热点题材全线反弹",
@@ -419,8 +419,8 @@
     "time": "2026-02-03",
     "org_name": "国信证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8394291",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/5aa70721077b414e813d16162ed8140c.pdf",
+    "status": "success"
   },
   {
     "title": "量化选股策略更新（260130）",
@@ -428,7 +428,34 @@
     "time": "2026-02-03",
     "org_name": "银河证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8394281",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/f72467172471a30ca590e0730044420a.pdf",
+    "status": "success"
+  },
+  {
+    "title": "金融工程日报:沪指午后上行重回 4100 点，光伏、煤炭领涨",
+    "link": "https://robo.datayes.com/v2/details/report/8395135",
+    "time": "2026-02-04",
+    "org_name": "国信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8395135",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/a4d4be40f49e3a74bd93bf9d6b7f4ef1.pdf",
+    "status": "success"
+  },
+  {
+    "title": "金融工程日报：沪指午后上行重回 4100 点，光伏、煤炭领涨",
+    "link": "https://robo.datayes.com/v2/details/report/8395148",
+    "time": "2026-02-04",
+    "org_name": "国信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8395148",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/51d3d96938fa1fbd4788619c8c69cd4f.pdf",
+    "status": "success"
+  },
+  {
+    "title": "金融工程定期：港股量化：2026开年恒指强劲，2月组合维持低估值配置",
+    "link": "https://robo.datayes.com/v2/details/report/8395025",
+    "time": "2026-02-04",
+    "org_name": "开源证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8395025",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/97c4e12372d96e8ded2e8d64e969d8ab.pdf",
+    "status": "success"
   }
 ]

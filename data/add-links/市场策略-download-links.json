@@ -824,8 +824,8 @@
     "time": "2026-02-04",
     "org_name": "国泰海通",
     "report_url": "https://robo.datayes.com/v2/details/report/8394201",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/23b4593297a7256c17d5cfe31de2935f.pdf",
+    "status": "success"
   },
   {
     "title": "粤开市场日报",
@@ -833,8 +833,8 @@
     "time": "2026-02-04",
     "org_name": "粤开证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8394242",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/c612fa8ba17f87f2f579031129e371ce.pdf",
+    "status": "success"
   },
   {
     "title": "业绩之锚6：A股对业绩预告的反应机制与偏好",
@@ -842,8 +842,8 @@
     "time": "2026-02-04",
     "org_name": "中邮证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8394046",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/0c8e540e968c8a9718b4b83c50661421.pdf",
+    "status": "success"
   },
   {
     "title": "2月资产配置展望：金银大幅波动后怎么看？",
@@ -851,8 +851,8 @@
     "time": "2026-02-04",
     "org_name": "东方财富证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8393839",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/2b2774ec4aadaa9b28151323041de7d2.pdf",
+    "status": "success"
   },
   {
     "title": "外围不确定性未除，恒指料续波动",
@@ -860,8 +860,8 @@
     "time": "2026-02-04",
     "org_name": "国都香港",
     "report_url": "https://robo.datayes.com/v2/details/report/8392713",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/123cb2b26bc62deda891a2d8e58b79ef.pdf",
+    "status": "success"
   },
   {
     "title": "每日投资策略",
@@ -869,7 +869,79 @@
     "time": "2026-02-04",
     "org_name": "招银国际",
     "report_url": "https://robo.datayes.com/v2/details/report/8392711",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/bd2a2391adbcc976e82a534464674913.pdf",
+    "status": "success"
+  },
+  {
+    "title": "A股市场大势研判：大盘探底回升，沪指重返4100点",
+    "link": "https://robo.datayes.com/v2/details/report/8396475",
+    "time": "2026-02-05",
+    "org_name": "东莞证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8396475",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/8526010b0dfe8b6a0a537061e68e52d7.pdf",
+    "status": "success"
+  },
+  {
+    "title": "2月4日A股市场点评：科技调整，能源走强",
+    "link": "https://robo.datayes.com/v2/details/report/8396338",
+    "time": "2026-02-05",
+    "org_name": "中山证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8396338",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/0e797790e03af6b79bda9f916155c42c.pdf",
+    "status": "success"
+  },
+  {
+    "title": "国泰海通资产配置月度方案（202602）：市场波动加剧，权益商品迎配置良机",
+    "link": "https://robo.datayes.com/v2/details/report/8395468",
+    "time": "2026-02-04",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8395468",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/0792436c730d8e6b4d5cbe7d89570025.pdf",
+    "status": "success"
+  },
+  {
+    "title": "大类资产月度策略（2026.2）：乍暖还寒试韧性，估值修复入深水",
+    "link": "https://robo.datayes.com/v2/details/report/8395456",
+    "time": "2026-02-04",
+    "org_name": "国信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8395456",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/32791758563d183d5c5f18f889261c31.pdf",
+    "status": "success"
+  },
+  {
+    "title": "资产配置月报202602：风险偏好主导资产表现，权益关注风格切换",
+    "link": "https://robo.datayes.com/v2/details/report/8395459",
+    "time": "2026-02-04",
+    "org_name": "东方证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8395459",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/52d49465feb0fe678a6bb2ad23773cbb.pdf",
+    "status": "success"
+  },
+  {
+    "title": "环球市场脉搏（2026年1月）：不确定性的代价：从“卖出美国”到Warsh提名后的再定价",
+    "link": "https://robo.datayes.com/v2/details/report/8395345",
+    "time": "2026-02-04",
+    "org_name": "建银国际",
+    "report_url": "https://robo.datayes.com/v2/details/report/8395345",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/93e6ec33f7350d809fc439bec1e96b1c.pdf",
+    "status": "success"
+  },
+  {
+    "title": "中观景气跟踪 2月第1期：科技资源景气延续，内需或迎景气拐点",
+    "link": "https://robo.datayes.com/v2/details/report/8394878",
+    "time": "2026-02-04",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8394878",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/155bf343b493c8e5b8ad93915dd2139c.pdf",
+    "status": "success"
+  },
+  {
+    "title": "上证重回4100点",
+    "link": "https://robo.datayes.com/v2/details/report/8394860",
+    "time": "2026-02-04",
+    "org_name": "德邦证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8394860",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/9cf06ab7dc003b9a01c15ae86c2b661f.pdf",
+    "status": "success"
   }
 ]

@@ -718,5 +718,554 @@
     "report_url": "https://robo.datayes.com/v2/details/report/8374059",
     "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/7ff7078cb45623e78266b23d10fe13ca.pdf",
     "status": "success"
+  },
+  {
+    "title": "铜精矿有望纳入战略储备范围，关键金属地位或进一步增强",
+    "link": "https://robo.datayes.com/v2/details/report/8392605",
+    "time": "2026-02-04",
+    "org_name": "东方证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8392605",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/5b011b473e1a529047156cdcf9b4649e.pdf",
+    "status": "success"
+  },
+  {
+    "title": "海外看中国：消费恢复呈结构性分化",
+    "link": "https://robo.datayes.com/v2/details/report/8392593",
+    "time": "2026-02-04",
+    "org_name": "华泰证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8392593",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/10eae2ecbfb0891239fc611d40a76cc4.pdf",
+    "status": "success"
+  },
+  {
+    "title": "政策注入消费动能，看好三方收单“铲子”公司",
+    "link": "https://robo.datayes.com/v2/details/report/8391965",
+    "time": "2026-02-03",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8391965",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/f38fc5cedab160b76d51f41ddda6d42d.pdf",
+    "status": "success"
+  },
+  {
+    "title": "电子行业跟踪报告：OpenClaw助力AIAgent技术范式升级",
+    "link": "https://robo.datayes.com/v2/details/report/8391672",
+    "time": "2026-02-03",
+    "org_name": "爱建证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8391672",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/4bf896e35c9f9c3ec6ef1382f5903173.pdf",
+    "status": "success"
+  },
+  {
+    "title": "上海收储新政的创新与意义",
+    "link": "https://robo.datayes.com/v2/details/report/8391673",
+    "time": "2026-02-03",
+    "org_name": "华泰证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8391673",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/c38b142ab5bea773a7b1ed6763c277d4.pdf",
+    "status": "success"
+  },
+  {
+    "title": "小核酸破局：从“肝脏验证”迈向“多组织扩展”",
+    "link": "https://robo.datayes.com/v2/details/report/8391493",
+    "time": "2026-02-03",
+    "org_name": "东方证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8391493",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/8936bbd829b993be74eaf935874a051a.pdf",
+    "status": "success"
+  },
+  {
+    "title": "理财产品跟踪报告2026年第1期（1月12日-1月25日）：权益基金迅猛扩张，保险新发结构剧变",
+    "link": "https://robo.datayes.com/v2/details/report/8390822",
+    "time": "2026-02-03",
+    "org_name": "华创证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8390822",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/a1cecd9169b15e8c4f3985635c85835e.pdf",
+    "status": "success"
+  },
+  {
+    "title": "建材行业2025年业绩前瞻：预计25Q4玻纤收入利润高增，传统建材业绩承压",
+    "link": "https://robo.datayes.com/v2/details/report/8388094",
+    "time": "2026-02-03",
+    "org_name": "国联民生证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8388094",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/1cc48ea81986db5661922ab67b8d02dc.pdf",
+    "status": "success"
+  },
+  {
+    "title": "AI算力需求拉动，存储紧缺持续",
+    "link": "https://robo.datayes.com/v2/details/report/8387594",
+    "time": "2026-02-03",
+    "org_name": "东方证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8387594",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/020757d51590fe389053c216efef0b8a.pdf",
+    "status": "success"
+  },
+  {
+    "title": "快递行业 2025 年 12 月月报：件量增速持续放缓，反内卷下单价稳定",
+    "link": "https://robo.datayes.com/v2/details/report/8392206",
+    "time": "2026-02-03",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8392206",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/a4d990145baac1796f05ae35210171a5.pdf",
+    "status": "success"
+  },
+  {
+    "title": "上游驱动被动元件涨价，将持续提升行业景气",
+    "link": "https://robo.datayes.com/v2/details/report/8390785",
+    "time": "2026-02-02",
+    "org_name": "第一创业",
+    "report_url": "https://robo.datayes.com/v2/details/report/8390785",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/99e03a6d4ae293504e0ab399563a7cc7.pdf",
+    "status": "success"
+  },
+  {
+    "title": "有色金属：鹰派扰动，价格巨震",
+    "link": "https://robo.datayes.com/v2/details/report/8381364",
+    "time": "2026-02-02",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8381364",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/a73b28ddbd716e577e72e7e304ead99f.pdf",
+    "status": "success"
+  },
+  {
+    "title": "化工行业周报20260201：国际油价上涨，分散染料、维生素E价格上涨",
+    "link": "https://robo.datayes.com/v2/details/report/8381886",
+    "time": "2026-02-02",
+    "org_name": "中银国际",
+    "report_url": "https://robo.datayes.com/v2/details/report/8381886",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/21aae8f9ac8686a370b3985429381eba.pdf",
+    "status": "success"
+  },
+  {
+    "title": "有色金属行业动态报告：2025年黄金需求同比增加8%至4999.4吨，投资需求同比增加84%至2175.3吨",
+    "link": "https://robo.datayes.com/v2/details/report/8381176",
+    "time": "2026-02-02",
+    "org_name": "华西证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8381176",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/b2cd64cce0b5be3f310cdb757cee2620.pdf",
+    "status": "success"
+  },
+  {
+    "title": "工业气体行业周度跟踪（2026年1月第5周）：液氧/氮周均价环比略涨；杭氧中标西非地区某炼油厂配套制氮设备项目",
+    "link": "https://robo.datayes.com/v2/details/report/8380995",
+    "time": "2026-02-02",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8380995",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/e6ac1ca42818025c208c3c794ead5ddd.pdf",
+    "status": "success"
+  },
+  {
+    "title": "洁净室市场继续扩容，关注地产预期改善",
+    "link": "https://robo.datayes.com/v2/details/report/8380274",
+    "time": "2026-02-02",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8380274",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/d2a499b6eadec08c94a25c559e3239a5.pdf",
+    "status": "success"
+  },
+  {
+    "title": "存储巨头业绩强劲，AI需求有望被持续挖掘",
+    "link": "https://robo.datayes.com/v2/details/report/8379666",
+    "time": "2026-02-01",
+    "org_name": "东方证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8379666",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/a2897940652ef75219cfc84c00c586d1.pdf",
+    "status": "success"
+  },
+  {
+    "title": "第5周成交震荡，房企降杠杆有利未来高质量发展",
+    "link": "https://robo.datayes.com/v2/details/report/8379378",
+    "time": "2026-02-01",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8379378",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/9b802f818226ded7aebca3b95b18a6c4.pdf",
+    "status": "success"
+  },
+  {
+    "title": "社会服务行业2025Q4基金持仓分析报告：重仓比例环比回升，龙头个股普遍增配",
+    "link": "https://robo.datayes.com/v2/details/report/8379328",
+    "time": "2026-02-01",
+    "org_name": "万联证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8379328",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/f79f368716d5d4a0dc9ab0188c797696.pdf",
+    "status": "success"
+  },
+  {
+    "title": "钢铁行业周度更新报告：25Q4板块预披业绩总亏约119亿",
+    "link": "https://robo.datayes.com/v2/details/report/8379301",
+    "time": "2026-02-01",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8379301",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/3f493a9f5ba952d6dcd0f5f348a8ddcf.pdf",
+    "status": "success"
+  },
+  {
+    "title": "2025年蒙煤电子竞拍梳理",
+    "link": "https://robo.datayes.com/v2/details/report/8379168",
+    "time": "2026-02-01",
+    "org_name": "国盛证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8379168",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/ef49ce64b84a142b93412aee7d023c94.pdf",
+    "status": "success"
+  },
+  {
+    "title": "商社行业周报（2026.1.26-2026.2.1）：政策支持服务消费发展，关注春节数据",
+    "link": "https://robo.datayes.com/v2/details/report/8378799",
+    "time": "2026-02-01",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8378799",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/ba191d104c9f62030db62dd0b16311a4.pdf",
+    "status": "success"
+  },
+  {
+    "title": "“十五五”碳达峰路径展望：绿电应用构建减碳基石，看好新一代能源技术突破",
+    "link": "https://robo.datayes.com/v2/details/report/8378714",
+    "time": "2026-02-01",
+    "org_name": "东方证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8378714",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/3d4667bab179be326631ea6cabc15c85.pdf",
+    "status": "success"
+  },
+  {
+    "title": "光伏设备行业跟踪报告：SpaceX 申请百万卫星布局轨道 AI 数据中心，太空光伏与设备环节有望率先受益",
+    "link": "https://robo.datayes.com/v2/details/report/8378537",
+    "time": "2026-02-01",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8378537",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/d3521bf691cfe0492b2dcbc43142bb12.pdf",
+    "status": "success"
+  },
+  {
+    "title": "银行周报（2026/1/26-2026/1/30）：战略投资者拟扩围，利好银行长期资本补充",
+    "link": "https://robo.datayes.com/v2/details/report/8378441",
+    "time": "2026-02-01",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8378441",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/8c81a099d92a2c7e0bc8a4a5c00326eb.pdf",
+    "status": "success"
+  },
+  {
+    "title": "通胀预期下如何看种植链投资机会？",
+    "link": "https://robo.datayes.com/v2/details/report/8381248",
+    "time": "2026-02-01",
+    "org_name": "华泰证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8381248",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/fc12656f5f0ae1000af02628a5c13c20.pdf",
+    "status": "success"
+  },
+  {
+    "title": "国内海外云厂商资本开支高企，看好对电力设备需求拉动",
+    "link": "https://robo.datayes.com/v2/details/report/8379689",
+    "time": "2026-02-01",
+    "org_name": "东方证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8379689",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/5155e576579229cba0ed295ab11f236d.pdf",
+    "status": "success"
+  },
+  {
+    "title": "储能首个国家级容量电价政策出台，经济性全国跑通可期",
+    "link": "https://robo.datayes.com/v2/details/report/8378281",
+    "time": "2026-01-31",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8378281",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/428e987369d87f69dda83934567c6c8f.pdf",
+    "status": "success"
+  },
+  {
+    "title": "首批商业不动产 REITs 申报：商业不动产 REITs，资产出表再添工具",
+    "link": "https://robo.datayes.com/v2/details/report/8378240",
+    "time": "2026-01-31",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8378240",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/fab2891be6db7023d9b6de897163b739.pdf",
+    "status": "success"
+  },
+  {
+    "title": "FY26Q3 HOKA 重回高双增速，上调全年业绩指引",
+    "link": "https://robo.datayes.com/v2/details/report/8377957",
+    "time": "2026-01-31",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8377957",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/5c9b2a04e5f82901f9541c3b5dd63170.pdf",
+    "status": "success"
+  },
+  {
+    "title": "CPU迎来AIAgent时代新机遇",
+    "link": "https://robo.datayes.com/v2/details/report/8377903",
+    "time": "2026-01-31",
+    "org_name": "东方证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8377903",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/cd32103e3e6c061c65ab4d8693c9bc0a.pdf",
+    "status": "success"
+  },
+  {
+    "title": "仔猪价格的秘密",
+    "link": "https://robo.datayes.com/v2/details/report/8377989",
+    "time": "2026-01-31",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8377989",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/85542fb0ad98d0482318e4ffa73b5b78.pdf",
+    "status": "success"
+  },
+  {
+    "title": "旅游行业跟踪报告：春节旅游预期向好，跨境游持续火热",
+    "link": "https://robo.datayes.com/v2/details/report/8391686",
+    "time": "2026-01-30",
+    "org_name": "麦高证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8391686",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/4bd978238f713bfbecf04711a6cc111f.pdf",
+    "status": "success"
+  },
+  {
+    "title": "商业航天行业点评报告：中国商火提出全力突破可重复使用技术，可回收火箭有望突破",
+    "link": "https://robo.datayes.com/v2/details/report/8376576",
+    "time": "2026-01-30",
+    "org_name": "浙商证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8376576",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/c8ae5be1e187dcee7d37b9c39adad15f.pdf",
+    "status": "success"
+  },
+  {
+    "title": "美容护理行业跟踪报告：25Q4美护基金配置比例环比下滑，个护、化妆品处于低配区间",
+    "link": "https://robo.datayes.com/v2/details/report/8376419",
+    "time": "2026-01-30",
+    "org_name": "万联证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8376419",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/6d2c52e03c191e96557a78001849c667.pdf",
+    "status": "success"
+  },
+  {
+    "title": "机器人产业跟踪：特斯拉将加大投资机器人产线，Optimus量产确定性提升",
+    "link": "https://robo.datayes.com/v2/details/report/8376389",
+    "time": "2026-01-30",
+    "org_name": "东方证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8376389",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/fad8c4d3a99129c3466153db893036c4.pdf",
+    "status": "success"
+  },
+  {
+    "title": "生猪养殖行业月度跟踪：农林牧渔行业：猪价短期回暖，不改去化趋势",
+    "link": "https://robo.datayes.com/v2/details/report/8376377",
+    "time": "2026-01-30",
+    "org_name": "东兴证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8376377",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/0c5e3c5d45abdad29c4fc772edacb6bb.pdf",
+    "status": "success"
+  },
+  {
+    "title": "主动类权益基金大幅增持有色行业：A股有色金属行业2025Q4基金持仓分析",
+    "link": "https://robo.datayes.com/v2/details/report/8376176",
+    "time": "2026-01-30",
+    "org_name": "银河证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8376176",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17671968/ddb5c6182a8d6f4787ecd69cda813b45.pdf",
+    "status": "success"
+  },
+  {
+    "title": "医药行业 2025Q4 公募基金持仓分析",
+    "link": "https://robo.datayes.com/v2/details/report/8395114",
+    "time": "2026-02-04",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8395114",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/091e5d0edf0d8368790b7496da1e3f7f.pdf",
+    "status": "success"
+  },
+  {
+    "title": "汽车智能化月报系列（三十二）：11月城区NOA渗透率超20%，Waymo完成新一轮千亿融资",
+    "link": "https://robo.datayes.com/v2/details/report/8394670",
+    "time": "2026-02-04",
+    "org_name": "国信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8394670",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/99962de0d8a5755e0519e2af94394046.pdf",
+    "status": "success"
+  },
+  {
+    "title": "新协议加速提振合规需求，利好中期运价中枢",
+    "link": "https://robo.datayes.com/v2/details/report/8394176",
+    "time": "2026-02-04",
+    "org_name": "财通证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8394176",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/bcb42ac1253bc1fccb33a664d0fb60e5.pdf",
+    "status": "success"
+  },
+  {
+    "title": "房地产行业专题：香港楼市复苏的复盘、展望与借鉴",
+    "link": "https://robo.datayes.com/v2/details/report/8394127",
+    "time": "2026-02-04",
+    "org_name": "国信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8394127",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/b4b77b7d1937b923089bfe09c6b1a01f.pdf",
+    "status": "success"
+  },
+  {
+    "title": "汽车智能化月报系列（三十二）：11月城区NOA渗透率超20%，Waymo完成新一轮千亿融资",
+    "link": "https://robo.datayes.com/v2/details/report/8393978",
+    "time": "2026-02-04",
+    "org_name": "国信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8393978",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/7658ae11db8b29e7df5056595993923e.pdf",
+    "status": "success"
+  },
+  {
+    "title": "房地产行业专题研究：不同房企商业地产的差异",
+    "link": "https://robo.datayes.com/v2/details/report/8394000",
+    "time": "2026-02-04",
+    "org_name": "东方财富证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8394000",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/3c8d3c670a107cfe6a0dd36e65f5b4a2.pdf",
+    "status": "success"
+  },
+  {
+    "title": "汽车智能化月报系列（三十二）：11月城区NOA渗透率超20%，Waymo完成新一轮千亿融资",
+    "link": "https://robo.datayes.com/v2/details/report/8393842",
+    "time": "2026-02-04",
+    "org_name": "国信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8393842",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/7658ae11db8b29e7df5056595993923e.pdf",
+    "status": "success"
+  },
+  {
+    "title": "新势力系列点评二十六：1月车市表现平淡，新势力同比表现好于行业",
+    "link": "https://robo.datayes.com/v2/details/report/8395461",
+    "time": "2026-02-04",
+    "org_name": "国联民生证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8395461",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/59cf1b30cc7cb1e79771d6d53dfbf37a.pdf",
+    "status": "success"
+  },
+  {
+    "title": "印尼削减产量配额，搅动全球煤炭贸易",
+    "link": "https://robo.datayes.com/v2/details/report/8395353",
+    "time": "2026-02-04",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8395353",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/89901b7498132d093873a38f1395f4eb.pdf",
+    "status": "success"
+  },
+  {
+    "title": "2026年中央一号文点评：锚定农业农村现代化，聚焦粮食稳产提质、畜牧业健康发展、农业科技创新",
+    "link": "https://robo.datayes.com/v2/details/report/8395153",
+    "time": "2026-02-04",
+    "org_name": "国信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8395153",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/7a44280b8666b47188f295ca4388ce82.pdf",
+    "status": "success"
+  },
+  {
+    "title": "聚焦农业现代化，建设农业强国",
+    "link": "https://robo.datayes.com/v2/details/report/8394772",
+    "time": "2026-02-04",
+    "org_name": "江海证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8394772",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/27753e97ab41af485d3e2c7b36c44d87.pdf",
+    "status": "success"
+  },
+  {
+    "title": "房地产行业点评报告：上海三区启动住房以旧换新，推动新房去库存",
+    "link": "https://robo.datayes.com/v2/details/report/8394450",
+    "time": "2026-02-04",
+    "org_name": "开源证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8394450",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/064c0acdc4945fca2ff5f08107170fed.pdf",
+    "status": "success"
+  },
+  {
+    "title": "大飞机引领下国产商发前景广阔",
+    "link": "https://robo.datayes.com/v2/details/report/8392567",
+    "time": "2026-02-04",
+    "org_name": "华泰证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8392567",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/8b1047d11297778dc6d254cc0b4288f1.pdf",
+    "status": "success"
+  },
+  {
+    "title": "上海试点收购二手房点评：上海试点收购二手房，着力提振发展楼市",
+    "link": "https://robo.datayes.com/v2/details/report/8394062",
+    "time": "2026-02-03",
+    "org_name": "银河证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8394062",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/754787a4ab9f39cb292665b13a08271c.pdf",
+    "status": "success"
+  },
+  {
+    "title": "燃气轮机行业重点事件跟踪：杭汽轮自主燃机获取商业化合同，B转A加速推进",
+    "link": "https://robo.datayes.com/v2/details/report/8394979",
+    "time": "2026-02-04",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8394979",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/c26ef3eecd34521fde71270a30df450a.pdf",
+    "status": "success"
+  },
+  {
+    "title": "煤炭行业动态跟踪报告：印尼矿商暂停煤炭出口，煤价上行预期明显加强",
+    "link": "https://robo.datayes.com/v2/details/report/8394977",
+    "time": "2026-02-04",
+    "org_name": "东方证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8394977",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/14c1b403b9891a47e37b6bda6ee422a1.pdf",
+    "status": "success"
+  },
+  {
+    "title": "从高净值人群和奢侈品消费看纺服时尚投资机会",
+    "link": "https://robo.datayes.com/v2/details/report/8394976",
+    "time": "2026-02-04",
+    "org_name": "东方证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8394976",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/d4f2998644a5e5cf2a7ca8315814b7bf.pdf",
+    "status": "success"
+  },
+  {
+    "title": "企业结汇意愿增加，是否影响银行间流动性？",
+    "link": "https://robo.datayes.com/v2/details/report/8392931",
+    "time": "2026-02-04",
+    "org_name": "东方证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8392931",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/53f196d59c3167fe2aa5d7301fbedd97.pdf",
+    "status": "success"
+  },
+  {
+    "title": "农机2025年需求承压，2026年景气度有望改善",
+    "link": "https://robo.datayes.com/v2/details/report/8381742",
+    "time": "2026-02-02",
+    "org_name": "东方证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8381742",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/720ed807bef4d0dafc06d652c857bb4a.pdf",
+    "status": "success"
+  },
+  {
+    "title": "燃气轮机行业专题报告：供给变革、需求共振与核心环节国产化机遇",
+    "link": "https://robo.datayes.com/v2/details/report/8396840",
+    "time": "2026-02-05",
+    "org_name": "中泰证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8396840",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/40f0758e643c97a61f533fd0181ecab3.pdf",
+    "status": "success"
+  },
+  {
+    "title": "储能行业系列报告：容量电价政策发布，储能有望打开成长空间",
+    "link": "https://robo.datayes.com/v2/details/report/8396788",
+    "time": "2026-02-05",
+    "org_name": "中银国际",
+    "report_url": "https://robo.datayes.com/v2/details/report/8396788",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/263093d61e1ece64c18c4711e24c9b9b.pdf",
+    "status": "success"
+  },
+  {
+    "title": "超节点与Scaleup网络专题之英伟达：行业标杆，领先优势建立在NVLink和NVLink3",
+    "link": "https://robo.datayes.com/v2/details/report/8396775",
+    "time": "2026-02-05",
+    "org_name": "东兴证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8396775",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/6ffbb44f49af86010147500a7ed60e91.pdf",
+    "status": "success"
+  },
+  {
+    "title": "加码航空、油运，配置公路",
+    "link": "https://robo.datayes.com/v2/details/report/8396732",
+    "time": "2026-02-05",
+    "org_name": "华泰证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8396732",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/01da6f29c4359419b4d9fbab7a8c9622.pdf",
+    "status": "success"
   }
 ]
