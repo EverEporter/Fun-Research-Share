@@ -457,5 +457,275 @@
     "report_url": "https://robo.datayes.com/v2/details/report/8395025",
     "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/97c4e12372d96e8ded2e8d64e969d8ab.pdf",
     "status": "success"
+  },
+  {
+    "title": "A股市场快照：宽基指数每日投资动态",
+    "link": "https://robo.datayes.com/v2/details/report/8396949",
+    "time": "2026-02-05",
+    "org_name": "江海证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8396949",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/c6919e51001d28e2b6534f2b903f9bec.pdf",
+    "status": "success"
+  },
+  {
+    "title": "金融工程日报：沪指缩量下跌，光伏、有色金属领跌",
+    "link": "https://robo.datayes.com/v2/details/report/8400175",
+    "time": "2026-02-06",
+    "org_name": "国信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8400175",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/891b711ac4415a604758a763fa9a5e62.pdf",
+    "status": "success"
+  },
+  {
+    "title": "股指分红点位监控周报：微盘股相对走强，IM 主力合约高位升水",
+    "link": "https://robo.datayes.com/v2/details/report/8398323",
+    "time": "2026-02-05",
+    "org_name": "国信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8398323",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/37b2203dfe338bfc0f3ba3739712bb19.pdf",
+    "status": "success"
+  },
+  {
+    "title": "股指分红点位监控周报：微盘股相对走强，IM主力合约高位升水",
+    "link": "https://robo.datayes.com/v2/details/report/8399762",
+    "time": "2026-02-05",
+    "org_name": "国信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8399762",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/71cfe320ebab934dfd723ed7f37b1e63.pdf",
+    "status": "success"
+  },
+  {
+    "title": "风格Smart beta组合跟踪周报（2026.02.02-2026.02.06）",
+    "link": "https://robo.datayes.com/v2/details/report/8407774",
+    "time": "2026-02-09",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8407774",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/78c91911248a25e4760e1bb4f06c9798.pdf",
+    "status": "success"
+  },
+  {
+    "title": "量化配置视野：积极增配A股权益资产",
+    "link": "https://robo.datayes.com/v2/details/report/8407573",
+    "time": "2026-02-09",
+    "org_name": "国金证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8407573",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/14f2d1e47dfaff004f022e896ae15dbb.pdf",
+    "status": "success"
+  },
+  {
+    "title": "周期板块景气预期开启扩张",
+    "link": "https://robo.datayes.com/v2/details/report/8407673",
+    "time": "2026-02-09",
+    "org_name": "国盛证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8407673",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/84015af04aa308c4acfc7f2b7adca240.pdf",
+    "status": "success"
+  },
+  {
+    "title": "权益延续回撤，转债跑出超额",
+    "link": "https://robo.datayes.com/v2/details/report/8407117",
+    "time": "2026-02-09",
+    "org_name": "江海证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8407117",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/9f05a52d44451dfc7e8d42b0eff4b6bb.pdf",
+    "status": "success"
+  },
+  {
+    "title": "量化观市：春节前后日历效应分析",
+    "link": "https://robo.datayes.com/v2/details/report/8406983",
+    "time": "2026-02-09",
+    "org_name": "国金证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8406983",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/b9eab366038d268486cdedf5efae1907.pdf",
+    "status": "success"
+  },
+  {
+    "title": "A股市场快照：宽基指数每日投资动态",
+    "link": "https://robo.datayes.com/v2/details/report/8407020",
+    "time": "2026-02-09",
+    "org_name": "江海证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8407020",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/1550a845f0e49585bdb1d12f1f401c5b.pdf",
+    "status": "success"
+  },
+  {
+    "title": "基金周报：我国境内ETF规模亚洲第一，恒生指数公司发布恒生双科技指数",
+    "link": "https://robo.datayes.com/v2/details/report/8405198",
+    "time": "2026-02-08",
+    "org_name": "国信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8405198",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/ceb8e91c214c52558acc892e014daf7b.pdf",
+    "status": "success"
+  },
+  {
+    "title": "量化周报：持股过节",
+    "link": "https://robo.datayes.com/v2/details/report/8404967",
+    "time": "2026-02-08",
+    "org_name": "国盛证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8404967",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/6c2faf02cde0d85522df7dc8de9d43be.pdf",
+    "status": "success"
+  },
+  {
+    "title": "中银量化大类资产跟踪：贵金属巨震，宽松流动性持续利好微盘风格",
+    "link": "https://robo.datayes.com/v2/details/report/8404897",
+    "time": "2026-02-08",
+    "org_name": "中银国际",
+    "report_url": "https://robo.datayes.com/v2/details/report/8404897",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/aaa02ebb1fc0b6f10a713fc7ae0a203e.pdf",
+    "status": "success"
+  },
+  {
+    "title": "净利润断层策略本周超额收益3.44%",
+    "link": "https://robo.datayes.com/v2/details/report/8404856",
+    "time": "2026-02-08",
+    "org_name": "中泰证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8404856",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/6c1706f1b0b6bf4cfd9282abe6cfb215.pdf",
+    "status": "success"
+  },
+  {
+    "title": "量化择时周报：缩量信号近在咫尺，重回科技与周期",
+    "link": "https://robo.datayes.com/v2/details/report/8404836",
+    "time": "2026-02-08",
+    "org_name": "中泰证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8404836",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/4db70b372b2d79ff4a7ff03a0b15d3a8.pdf",
+    "status": "success"
+  },
+  {
+    "title": "市场情绪监控周报（20260202-20260206）：本周热度变化最大行业为石油石化、食品饮料",
+    "link": "https://robo.datayes.com/v2/details/report/8404654",
+    "time": "2026-02-08",
+    "org_name": "华创证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8404654",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/7031d5d1bc08bec090baf10ce520d09c.pdf",
+    "status": "success"
+  },
+  {
+    "title": "【金工周报】（20260202-20260206）：短期择时模型多空交织，后市或中性震荡",
+    "link": "https://robo.datayes.com/v2/details/report/8404571",
+    "time": "2026-02-08",
+    "org_name": "华创证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8404571",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/6327baeaf456c4f8ec73a6f7a4bb6cba.pdf",
+    "status": "success"
+  },
+  {
+    "title": "量化择时和拥挤度预警周报（20260206）：市场下周或存在一定的结构性机会",
+    "link": "https://robo.datayes.com/v2/details/report/8404345",
+    "time": "2026-02-08",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8404345",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/aa8cc507622ea2e8d2de47f9761b41da.pdf",
+    "status": "success"
+  },
+  {
+    "title": "量价深度学习因子全面走强",
+    "link": "https://robo.datayes.com/v2/details/report/8406431",
+    "time": "2026-02-08",
+    "org_name": "华泰证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8406431",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/26f558b6ae859990deb013d50b63c2c3.pdf",
+    "status": "success"
+  },
+  {
+    "title": "月初小市值因子表现强势",
+    "link": "https://robo.datayes.com/v2/details/report/8406430",
+    "time": "2026-02-08",
+    "org_name": "华泰证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8406430",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/f50eb284fa6273cb4aceff0b2de69ea7.pdf",
+    "status": "success"
+  },
+  {
+    "title": "春节前继续配置哑铃结构防御",
+    "link": "https://robo.datayes.com/v2/details/report/8406414",
+    "time": "2026-02-08",
+    "org_name": "华泰证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8406414",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/296ccf002bd83d1c6686076ac9df5c55.pdf",
+    "status": "success"
+  },
+  {
+    "title": "红利风格择时周报（0202-0206）",
+    "link": "https://robo.datayes.com/v2/details/report/8404149",
+    "time": "2026-02-07",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8404149",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/b6fbb8a009536e5a7e872d3b2f3f7370.pdf",
+    "status": "success"
+  },
+  {
+    "title": "港股投资周报：恒生科技短期调整，港股精选组合年内上涨7.14%",
+    "link": "https://robo.datayes.com/v2/details/report/8404086",
+    "time": "2026-02-07",
+    "org_name": "国信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8404086",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/f560e15ab420af593f7deb92d8e059c8.pdf",
+    "status": "success"
+  },
+  {
+    "title": "多因子选股周报：反转因子表现出色，四大指增组合本周均跑赢基准",
+    "link": "https://robo.datayes.com/v2/details/report/8404090",
+    "time": "2026-02-07",
+    "org_name": "国信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8404090",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/7b1fd68f6936cc65e9c6bc7ed31d1aec.pdf",
+    "status": "success"
+  },
+  {
+    "title": "低频选股因子周报（2026.01.30-2026.02.06）",
+    "link": "https://robo.datayes.com/v2/details/report/8404249",
+    "time": "2026-02-07",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8404249",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+  },
+  {
+    "title": "热点追踪周报：由创新高个股看市场投资热点（第230期）",
+    "link": "https://robo.datayes.com/v2/details/report/8402056",
+    "time": "2026-02-06",
+    "org_name": "国信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8402056",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+  },
+  {
+    "title": "A股市场快照：宽基指数每日投资动态",
+    "link": "https://robo.datayes.com/v2/details/report/8401113",
+    "time": "2026-02-06",
+    "org_name": "江海证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8401113",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+  },
+  {
+    "title": "金融工程日报：沪指缩量下跌，光伏、有色金属领跌",
+    "link": "https://robo.datayes.com/v2/details/report/8401075",
+    "time": "2026-02-06",
+    "org_name": "国信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8401075",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+  },
+  {
+    "title": "双融日报：鑫融讯",
+    "link": "https://robo.datayes.com/v2/details/report/8400117",
+    "time": "2026-02-06",
+    "org_name": "华鑫证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8400117",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+  },
+  {
+    "title": "金融工程日报：沪指盘尾回落，油气、金属板块回暖",
+    "link": "https://robo.datayes.com/v2/details/report/8403563",
+    "time": "2026-02-06",
+    "org_name": "国信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8403563",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
   }
 ]

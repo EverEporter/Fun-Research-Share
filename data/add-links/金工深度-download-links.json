@@ -988,5 +988,59 @@
     "report_url": "https://robo.datayes.com/v2/details/report/8394459",
     "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/9c6ca93a17eb8a65eb2d967e57aefaad.pdf",
     "status": "success"
+  },
+  {
+    "title": "1月资金行为跟踪：资金再平衡：公募和融资的预期差",
+    "link": "https://robo.datayes.com/v2/details/report/8397369",
+    "time": "2026-02-05",
+    "org_name": "浙商证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8397369",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/8bdcd87bcb55222ce636b7c03a60b182.pdf",
+    "status": "success"
+  },
+  {
+    "title": "资产配置月报202602：如何衡量黄金的交易拥挤度？",
+    "link": "https://robo.datayes.com/v2/details/report/8401147",
+    "time": "2026-02-06",
+    "org_name": "国联民生证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8401147",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/db64e771f7b109678ef26757c13b2c45.pdf",
+    "status": "success"
+  },
+  {
+    "title": "量化基金周报",
+    "link": "https://robo.datayes.com/v2/details/report/8407899",
+    "time": "2026-02-09",
+    "org_name": "银河证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8407899",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/afc6c5135af6155910bae4b3013c2d10.pdf",
+    "status": "success"
+  },
+  {
+    "title": "基金研究系列（35）：从股债二元到多元配置：多资产基金投顾的三维画像与业绩归因",
+    "link": "https://robo.datayes.com/v2/details/report/8404468",
+    "time": "2026-02-08",
+    "org_name": "开源证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8404468",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/1211acf025cdbca0e98b41def1ce5466.pdf",
+    "status": "success"
+  },
+  {
+    "title": "择时雷达六面图：本周资金面和宏观基本面弱化",
+    "link": "https://robo.datayes.com/v2/details/report/8404626",
+    "time": "2026-02-07",
+    "org_name": "国盛证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8404626",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/f12bd4abc37eb7265335462383bec23b.pdf",
+    "status": "success"
+  },
+  {
+    "title": "2026年3月A股重点指数调样预测及投资机会解读",
+    "link": "https://robo.datayes.com/v2/details/report/8404078",
+    "time": "2026-02-06",
+    "org_name": "中泰证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8404078",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/666cf590f46378611ec008bd1b307e9a.pdf",
+    "status": "success"
   }
 ]
