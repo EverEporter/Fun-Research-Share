@@ -1706,8 +1706,8 @@
     "time": "2026-02-09",
     "org_name": "国信证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8407797",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"button:has-text('查看/下载')\").first to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/054fc7b67fc651bd5a337f696d23917a.pdf",
+    "status": "success"
   },
   {
     "title": "脑机接口系列报告：Neuralink带来的启示",
@@ -1715,8 +1715,8 @@
     "time": "2026-02-09",
     "org_name": "浙商证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8407382",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/9c6cf3ac4c61128d81a8b64fa74f445e.pdf",
+    "status": "success"
   },
   {
     "title": "AIDC发电专题报告：北美缺电逻辑持续演绎，相关投资线索再梳理",
@@ -1724,8 +1724,8 @@
     "time": "2026-02-09",
     "org_name": "东吴证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8407450",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/0f01d41ee7c6cb2b859d8382a7801f93.pdf",
+    "status": "success"
   },
   {
     "title": "AI Agent 专题：Opus 4.5 开启AI Agent拐点，CPU需求迎高增",
@@ -1733,8 +1733,8 @@
     "time": "2026-02-09",
     "org_name": "国信证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8407314",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/9c642324e1fdbebe78f23cebb00de707.pdf",
+    "status": "success"
   },
   {
     "title": "AIAgent专题：Opus4.5开启AIAgent拐点，CPU需求迎高增",
@@ -1742,8 +1742,8 @@
     "time": "2026-02-09",
     "org_name": "国信证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8407315",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/9c642324e1fdbebe78f23cebb00de707.pdf",
+    "status": "success"
   },
   {
     "title": "CPU专题报告二：CXL协议生态不断完善，看好CXL互联芯片环节",
@@ -1751,8 +1751,8 @@
     "time": "2026-02-09",
     "org_name": "财通证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8407298",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/526420450eaa42aeedf0342ef2a11986.pdf",
+    "status": "success"
   },
   {
     "title": "商业不动产REITs系列三：商业不动产REITs首航看点",
@@ -1760,8 +1760,8 @@
     "time": "2026-02-09",
     "org_name": "华泰证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8407239",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/07376f6b1e0e3e2a948a19a17e658e68.pdf",
+    "status": "success"
   },
   {
     "title": "低空经济产业链研究专题一：从产品到生态、从试点到常态，低空经济的发展潜力与机遇",
@@ -1769,8 +1769,8 @@
     "time": "2026-02-08",
     "org_name": "国信证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8405120",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/ae87f7529932183daab5992c6ce815ac.pdf",
+    "status": "success"
   },
   {
     "title": "建筑材料行业深度报告：建筑、建材2025Q4公募基金持仓低位回升，持仓集中度有所下降",
@@ -1778,8 +1778,8 @@
     "time": "2026-02-08",
     "org_name": "东吴证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8405047",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/fc5747af3604628996ad27b428acff13.pdf",
+    "status": "success"
   },
   {
     "title": "核聚变系列深度三：磁体材料迭代推动产业升级",
@@ -1787,8 +1787,8 @@
     "time": "2026-02-08",
     "org_name": "华金证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8405067",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/942f58ade69a33edda9044a65a178310.pdf",
+    "status": "success"
   },
   {
     "title": "北美云厂商资本开支与AI应用专题报告：AI驱动北美云厂资本开支继续高速增长，但ROIC环比下滑",
@@ -1796,8 +1796,8 @@
     "time": "2026-02-08",
     "org_name": "浙商证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8405074",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/9e3024c67cbf99cacce64a2690ad332e.pdf",
+    "status": "success"
   },
   {
     "title": "新能源+AI周报（第42期20260201-20260207）：重视主产业链布局，重视固态电池、太空光伏等主题",
@@ -1805,8 +1805,8 @@
     "time": "2026-02-08",
     "org_name": "太平洋证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8405094",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/aebfcf9ef0713473d43c2ceeab03d2c2.pdf",
+    "status": "success"
   },
   {
     "title": "快餐市场重焕生机，产品创新增时运营",
@@ -1814,8 +1814,8 @@
     "time": "2026-02-08",
     "org_name": "中泰证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8404837",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/8a659694e020e4b7cc6ebd5ae261af89.pdf",
+    "status": "success"
   },
   {
     "title": "航运船舶市场系列（十八）：长锦重注VLCC，有望重塑油运定价逻辑",
@@ -1823,8 +1823,8 @@
     "time": "2026-02-08",
     "org_name": "华源证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8404498",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/570167338e0711ffd361981af395d854.pdf",
+    "status": "success"
   },
   {
     "title": "PVC能否成为下一个电解铝",
@@ -1832,8 +1832,8 @@
     "time": "2026-02-08",
     "org_name": "东方证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8405358",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/282de2706fd45b92180382d9ce2eba69.pdf",
+    "status": "success"
   },
   {
     "title": "新质生产力专题报告二：工信部倡导突破全固态电池技术，从材料端来看固态电池产业链变革与未来走向",
@@ -1841,8 +1841,8 @@
     "time": "2026-02-07",
     "org_name": "华源证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8404139",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/887a32c24e68d35d1468f368ac9aa4cc.pdf",
+    "status": "success"
   },
   {
     "title": "旅游行业深度报告：政策推动、供求双旺，景区板块迎黄金投资期",
@@ -1850,8 +1850,8 @@
     "time": "2026-02-07",
     "org_name": "国泰海通",
     "report_url": "https://robo.datayes.com/v2/details/report/8404073",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/1964ec05552425c20b2e13664ce141e4.pdf",
+    "status": "success"
   },
   {
     "title": "港股市场速览：市场整体回撤，消费与工业较优",
@@ -1859,8 +1859,8 @@
     "time": "2026-02-07",
     "org_name": "国信证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8404229",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/0468041f94c0c0f50f76e94ce3a4fbc4.pdf",
+    "status": "success"
   },
   {
     "title": "智能制造行业周报：存储扩产确定性提升，持续推荐“两长”设备产业链",
@@ -1868,8 +1868,8 @@
     "time": "2026-02-09",
     "org_name": "爱建证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8407725",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/3b7047218d83e6d3e9fcf2f14162d93e.pdf",
+    "status": "success"
   },
   {
     "title": "光储行业跟踪：全国性储能容量电价机制出台，储能系统价格持续上涨",
@@ -1877,8 +1877,8 @@
     "time": "2026-02-09",
     "org_name": "爱建证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8407760",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/82e9f510a6b9b0f9d7b97ae1642ed5e0.pdf",
+    "status": "success"
   },
   {
     "title": "行业周报：地产或将复苏，关注化工地产链投资机会",
@@ -1886,8 +1886,8 @@
     "time": "2026-02-09",
     "org_name": "开源证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8407783",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/ebe1cedb517916dc6efc0e6defa58e98.pdf",
+    "status": "success"
   },
   {
     "title": "通信行业点评报告：云厂商资本开支高速增长，AI基础设施产业链高景气维持",
@@ -1895,8 +1895,8 @@
     "time": "2026-02-09",
     "org_name": "甬兴证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8407634",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/fed41d97ee39f7e57f2b641e18d7b9d5.pdf",
+    "status": "success"
   },
   {
     "title": "电子行业跟踪报告：摩尔线程推出智能编程服务",
@@ -1904,8 +1904,8 @@
     "time": "2026-02-09",
     "org_name": "爱建证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8407583",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/2e81c993cfbf3392ed680c448a51c035.pdf",
+    "status": "success"
   },
   {
     "title": "医药行业跟踪报告：信达生物与礼来合作再度升级，打造全球创新生态体系",
@@ -1913,8 +1913,8 @@
     "time": "2026-02-09",
     "org_name": "爱建证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8407581",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/874d375498b66d776384adcdba1b608e.pdf",
+    "status": "success"
   },
   {
     "title": "食品饮料行业跟踪报告：线上i茅台数据亮眼，线下茅台量价超预期",
@@ -1922,8 +1922,8 @@
     "time": "2026-02-09",
     "org_name": "爱建证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8407579",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/3e24a5a1645de5da461a62098ccd6f66.pdf",
+    "status": "success"
   },
   {
     "title": "房地产行业快评：如何看待数据改善与上海收储",
@@ -1931,8 +1931,8 @@
     "time": "2026-02-09",
     "org_name": "国信证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8407411",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/9608e04704b2dd2f378054ef1420f114.pdf",
+    "status": "success"
   },
   {
     "title": "纺织服饰行业点评报告：纺织原料价格上行，龙头盈利有望修复改善",
@@ -1940,8 +1940,8 @@
     "time": "2026-02-09",
     "org_name": "银河证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8407318",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/54ba6fb119e87f68998c315b0b0c6ef9.pdf",
+    "status": "success"
   },
   {
     "title": "PCB行业点评：谷歌上修2026年资本开支，TPUPCB供应商有望率先受益",
@@ -1949,8 +1949,8 @@
     "time": "2026-02-09",
     "org_name": "浙商证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8407052",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/04584a6a151511398f2f3a952b962ae3.pdf",
+    "status": "success"
   },
   {
     "title": "新标电表补招价格回升",
@@ -1958,8 +1958,8 @@
     "time": "2026-02-09",
     "org_name": "华泰证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8406635",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/b2866aa9b6ce88b8419db3d0ff67aa95.pdf",
+    "status": "success"
   },
   {
     "title": "医药行业周报：市场情绪回暖，看好基本面表现强劲的创新药产业链龙头",
@@ -1967,8 +1967,8 @@
     "time": "2026-02-09",
     "org_name": "海通国际证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8406624",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/a69fc76990afac9227bc49e9525ea70b.pdf",
+    "status": "success"
   },
   {
     "title": "NextX 系列：颠覆性技术周刊第 5 期（2025.01.31-2026.02.06）：可扩展量子网络关键突破：中科大实现长寿命远程离子纠缠存储",
@@ -1976,8 +1976,8 @@
     "time": "2026-02-09",
     "org_name": "国泰海通",
     "report_url": "https://robo.datayes.com/v2/details/report/8406068",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/781bc220a387d0489437ae2fb035b001.pdf",
+    "status": "success"
   },
   {
     "title": "人民银行42号文，证监会1号文点评：境内虚拟货币违法，境外RWA监管明晰",
@@ -1985,8 +1985,8 @@
     "time": "2026-02-09",
     "org_name": "国泰海通",
     "report_url": "https://robo.datayes.com/v2/details/report/8406352",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/e75e8a732f26f1754448616beee5ca9e.pdf",
+    "status": "success"
   },
   {
     "title": "中国RWA监管框架落地，香港Web3产业迎新变局",
@@ -1994,8 +1994,8 @@
     "time": "2026-02-08",
     "org_name": "浙商证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8404968",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/650e0a3110614fab77268334b261b81d.pdf",
+    "status": "success"
   },
   {
     "title": "可选消费W06周度趋势解析：海外消费业绩密集发布带动股价波动，A/H股期待26年可选消费恢复",
@@ -2003,8 +2003,8 @@
     "time": "2026-02-08",
     "org_name": "海通国际证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8405117",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/b08af7335fd6bff8ac1c7704bce4e421.pdf",
+    "status": "success"
   },
   {
     "title": "菲莫国际：提出三年规划，聚焦新烟成长",
@@ -2012,8 +2012,8 @@
     "time": "2026-02-08",
     "org_name": "信达证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8405115",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/bf5d5247b3396940980583297f097b72.pdf",
+    "status": "success"
   },
   {
     "title": "2026年乳制品行业迎投资机会：产业升级有望提振原奶需求，奶价拐点向上或助力头部乳企修复市场份额",
@@ -2021,8 +2021,8 @@
     "time": "2026-02-08",
     "org_name": "华源证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8405123",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/69f3f8ea6f3ede5c4cf2e11daebeb05f.pdf",
+    "status": "success"
   },
   {
     "title": "关注商业航天，坚定算力基建扩张",
@@ -2030,8 +2030,8 @@
     "time": "2026-02-08",
     "org_name": "华西证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8405126",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/47e925ecd767c50cfa801bf39df1a6c8.pdf",
+    "status": "success"
   },
   {
     "title": "春节传媒行业曝光度提升，海外AnthropicCowork和插件发布",
@@ -2039,8 +2039,8 @@
     "time": "2026-02-08",
     "org_name": "太平洋证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8405097",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/892120684751a3c04a7bc16246d8d603.pdf",
+    "status": "success"
   },
   {
     "title": "国家算力互联互通节点体系建设推进，算力发展超预期",
@@ -2048,8 +2048,8 @@
     "time": "2026-02-08",
     "org_name": "银河证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8404628",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/356c22afcd85808d78e6c37ce2580fc1.pdf",
+    "status": "success"
   },
   {
     "title": "农业板块推荐报告：农业的“后春季躁动”",
@@ -2057,8 +2057,8 @@
     "time": "2026-02-08",
     "org_name": "浙商证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8404506",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/bead6b7dabf3d0d77c00a51f73ed8ba4.pdf",
+    "status": "success"
   },
   {
     "title": "通信行业点评报告：当前时点如何看光模块/CPO/NPO投资机会",
@@ -2066,8 +2066,8 @@
     "time": "2026-02-08",
     "org_name": "东吴证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8404493",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/cad77fa693f9b498da7643d17d9342a7.pdf",
+    "status": "success"
   },
   {
     "title": "预制菜国标推出助力行业规范",
@@ -2075,8 +2075,8 @@
     "time": "2026-02-08",
     "org_name": "华泰证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8404389",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/9a0246e7d53e409bf2215f17f299d939.pdf",
+    "status": "success"
   },
   {
     "title": "出台预制菜国标利好餐饮高质量发展",
@@ -2084,8 +2084,8 @@
     "time": "2026-02-08",
     "org_name": "华泰证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8406527",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/6d4befd6fa3c1328aa48fe49d1c9b7fc.pdf",
+    "status": "success"
   },
   {
     "title": "挖机全年内外共振值得期待",
@@ -2093,8 +2093,8 @@
     "time": "2026-02-08",
     "org_name": "华泰证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8406528",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/e6eaa265a939992458655d00245c4075.pdf",
+    "status": "success"
   },
   {
     "title": "行业点评报告：2026年关注AIAgent技术演进及商业化进入新拐点",
@@ -2102,8 +2102,8 @@
     "time": "2026-02-08",
     "org_name": "浙商证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8405224",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/9d6c4135079daf70a3685b620d524ae3.pdf",
+    "status": "success"
   },
   {
     "title": "证监会 2026 年 1 号文点评：RWA 的严监管时代",
@@ -2111,8 +2111,8 @@
     "time": "2026-02-07",
     "org_name": "国信证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8404137",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/6c4332dc6eb53a541e313d799a8fe449.pdf",
+    "status": "success"
   },
   {
     "title": "计算机行业点评：市场又低估了AI",
@@ -2120,8 +2120,8 @@
     "time": "2026-02-07",
     "org_name": "国金证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8404534",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/66c34c4238bf9783204de25e7b8a8c3e.pdf",
+    "status": "success"
   },
   {
     "title": "印尼煤炭减量预期强化，煤价有望上行推荐弹性",
@@ -2129,8 +2129,8 @@
     "time": "2026-02-06",
     "org_name": "中泰证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8404082",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/3c3355d5c5c1fc435ca93905cf8a1a28.pdf",
+    "status": "success"
   },
   {
     "title": "1月金融数据前瞻：预计新增贷款5.1-5.25万亿元，社融增速为8.3%",
@@ -2138,8 +2138,8 @@
     "time": "2026-02-06",
     "org_name": "中泰证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8404083",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/5124f859c23b9790a8cc4a5551cd98b8.pdf",
+    "status": "success"
   },
   {
     "title": "岛民消费进境商品“零关税”政策点评",
@@ -2147,8 +2147,8 @@
     "time": "2026-02-06",
     "org_name": "太平洋证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8404068",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/f4bfe8a86507e2c920b5849881bf5f7a.pdf",
+    "status": "success"
   },
   {
     "title": "数据中心供配电设备行业跟踪：海外主要云厂商资本开支持续增长，DRAM价格小幅回落",
@@ -2156,8 +2156,8 @@
     "time": "2026-02-09",
     "org_name": "爱建证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8407802",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/7fffc1f9d84b3d784150b6e39f43f34d.pdf",
+    "status": "success"
   },
   {
     "title": "空调提价坚决，扫地机在犹豫中减少自补",
@@ -2165,8 +2165,8 @@
     "time": "2026-02-09",
     "org_name": "银河证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8407801",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/ac8c0d9d4e4fe5304379088f2ab4749d.pdf",
+    "status": "success"
   },
   {
     "title": "锂电行业跟踪：碳酸锂价格下行，储能电芯均价上行",
@@ -2174,8 +2174,8 @@
     "time": "2026-02-09",
     "org_name": "爱建证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8407765",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/708fc4bf50beaa3278b2595706bfe1b7.pdf",
+    "status": "success"
   },
   {
     "title": "行业动态点评：北美数据中心缺电持续，关注气体发电机组国产替代、出海机会",
@@ -2183,8 +2183,8 @@
     "time": "2026-02-09",
     "org_name": "山西证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8407666",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/83fd13928d17d6f54eba4ae6f9e9d88b.pdf",
+    "status": "success"
   },
   {
     "title": "AI应用点评：Seedance2.0或将加速漫剧行业发展",
@@ -2192,8 +2192,8 @@
     "time": "2026-02-09",
     "org_name": "中银国际",
     "report_url": "https://robo.datayes.com/v2/details/report/8407616",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/5afbc808a81dc1b752f0b8b9b0ea327e.pdf",
+    "status": "success"
   },
   {
     "title": "传媒行业跟踪报告：2025Q4传媒行业重仓配置回落至低配，游戏板块备受青睐",
@@ -2201,8 +2201,8 @@
     "time": "2026-02-09",
     "org_name": "万联证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8407190",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/c4b2b46749d451ddd009a7e2433ed92c.pdf",
+    "status": "success"
   },
   {
     "title": "有色金属：关注企稳后的布局机会",
@@ -2210,8 +2210,8 @@
     "time": "2026-02-09",
     "org_name": "国泰海通",
     "report_url": "https://robo.datayes.com/v2/details/report/8407022",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/931183a442a7dbbfaf32f72f4210f2a6.pdf",
+    "status": "success"
   },
   {
     "title": "现制饮品行业跟踪报告：千问加码外卖补贴，行业价格战趋缓",
@@ -2219,8 +2219,8 @@
     "time": "2026-02-09",
     "org_name": "国泰海通",
     "report_url": "https://robo.datayes.com/v2/details/report/8407053",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/79d010413df50080bc08f4056af293e7.pdf",
+    "status": "success"
   },
   {
     "title": "钢铁行业周度更新报告：淡季维持累库趋势，但库存处于历史低位",
@@ -2228,8 +2228,8 @@
     "time": "2026-02-09",
     "org_name": "国泰海通",
     "report_url": "https://robo.datayes.com/v2/details/report/8406405",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/1896ffeebe7e9b418ec7af265c8d1d3a.pdf",
+    "status": "success"
   },
   {
     "title": "美印协议下国内炼厂成本优势或凸显",
@@ -2237,8 +2237,8 @@
     "time": "2026-02-09",
     "org_name": "华泰证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8406636",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/f044b92024f19f13137fe340b0b0e6c1.pdf",
+    "status": "success"
   },
   {
     "title": "印度扩产炼钢提振焦煤需求，拟加码美国进口优化供应格局",
@@ -2246,8 +2246,8 @@
     "time": "2026-02-09",
     "org_name": "国盛证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8406447",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/02969f5d737b92e2c180e748f0bf9505.pdf",
+    "status": "success"
   },
   {
     "title": "工业气体行业周度跟踪（2026年2月第1周）：杭氧进军超导领域；广钢气体变更募投资金投向武汉半导体与华星光电t8项目",
@@ -2255,8 +2255,8 @@
     "time": "2026-02-09",
     "org_name": "国泰海通",
     "report_url": "https://robo.datayes.com/v2/details/report/8406291",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/16fb32b15d29fb124606f3095c297090.pdf",
+    "status": "success"
   },
   {
     "title": "黄金珠宝板块投资机会分析：看好品牌化、差异化发展并具备出海亮点的龙头",
@@ -2264,8 +2264,8 @@
     "time": "2026-02-08",
     "org_name": "东方证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8404995",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/f3a34ab1241b43c3d76321378bd8d314.pdf",
+    "status": "success"
   },
   {
     "title": "视频生成进入精准控制时代，创作平权带动B/C两端加速渗透",
@@ -2273,8 +2273,8 @@
     "time": "2026-02-08",
     "org_name": "东方证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8405055",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/208f98394e61002124846596650d6c34.pdf",
+    "status": "success"
   },
   {
     "title": "优质消费布局正当时",
@@ -2282,8 +2282,8 @@
     "time": "2026-02-08",
     "org_name": "国泰海通",
     "report_url": "https://robo.datayes.com/v2/details/report/8404686",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/a36753dd4011ae6e4a82d0242af904a7.pdf",
+    "status": "success"
   },
   {
     "title": "海内外同步催化驱动太空光伏景气度向上，优选高市占率设备厂及核心材料企业",
@@ -2291,8 +2291,8 @@
     "time": "2026-02-08",
     "org_name": "东方证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8404832",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/42d570d1c3b47ef1a5fbf3e91d4cb742.pdf",
+    "status": "success"
   },
   {
     "title": "商社行业周报：乐购新春方案出台，关注春节消费表现",
@@ -2300,8 +2300,8 @@
     "time": "2026-02-08",
     "org_name": "国泰海通",
     "report_url": "https://robo.datayes.com/v2/details/report/8404481",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/bbe1f380e7535d99d6b71d84932af874.pdf",
+    "status": "success"
   },
   {
     "title": "第 6 周成交分化，房企减少拿地改善新房市场预期",
@@ -2309,8 +2309,8 @@
     "time": "2026-02-08",
     "org_name": "国泰海通",
     "report_url": "https://robo.datayes.com/v2/details/report/8404536",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/b8694d3cf1b2b8689dd931210c5099f6.pdf",
+    "status": "success"
   },
   {
     "title": "美妆行业更新：美护修复，关注高成长与边际改善",
@@ -2318,8 +2318,8 @@
     "time": "2026-02-08",
     "org_name": "国泰海通",
     "report_url": "https://robo.datayes.com/v2/details/report/8404471",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/e270c4bd25dfd831dd88fe87e67ad778.pdf",
+    "status": "success"
   },
   {
     "title": "计算机周观点第33期：底层基础设施迭代加速，AI原生力量重塑软件产业格局",
@@ -2327,8 +2327,8 @@
     "time": "2026-02-08",
     "org_name": "国泰海通",
     "report_url": "https://robo.datayes.com/v2/details/report/8404429",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/610e9e392860187f33f706a7456ea2e3.pdf",
+    "status": "success"
   },
   {
     "title": "全球地缘政治扰动加剧，矿山机械迎来发展机遇",
@@ -2336,8 +2336,8 @@
     "time": "2026-02-08",
     "org_name": "东方证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8404384",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/12e74014c60c165a8d9de6bc87e0649f.pdf",
+    "status": "success"
   },
   {
     "title": "建筑工程业：国常会促进有效投资，低空经济指南发布",
@@ -2345,8 +2345,8 @@
     "time": "2026-02-08",
     "org_name": "国泰海通",
     "report_url": "https://robo.datayes.com/v2/details/report/8405939",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/e7dad172fff24e73fd41a0cf7c81bdd4.pdf",
+    "status": "success"
   },
   {
     "title": "国泰海通医药2026年2月第一周周报：高景气延续，持续推荐创新药械产业链",
@@ -2354,8 +2354,8 @@
     "time": "2026-02-08",
     "org_name": "国泰海通",
     "report_url": "https://robo.datayes.com/v2/details/report/8406254",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/58b535678af2501648756bf172da1aed.pdf",
+    "status": "success"
   },
   {
     "title": "算力需求强劲，关注CPO等新技术演进",
@@ -2363,8 +2363,8 @@
     "time": "2026-02-07",
     "org_name": "东方证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8404161",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/d5a0c009880a8ca377bbde02be03d9c0.pdf",
+    "status": "success"
   },
   {
     "title": "Coach 品牌势能全面爆发，中国市场强势领跑，上调全年指引",
@@ -2372,8 +2372,8 @@
     "time": "2026-02-07",
     "org_name": "国泰海通",
     "report_url": "https://robo.datayes.com/v2/details/report/8404123",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/9b3b056bfdcd07d4392c6a6bac627dec.pdf",
+    "status": "success"
   },
   {
     "title": "白酒行业更新报告：高端白酒引领，提振市场信心",
@@ -2381,8 +2381,8 @@
     "time": "2026-02-07",
     "org_name": "国泰海通",
     "report_url": "https://robo.datayes.com/v2/details/report/8404016",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/3d959713ef1630a59617251a9caeb2d0.pdf",
+    "status": "success"
   },
   {
     "title": "美国数据中心建设加剧用电紧张，燃机板块景气度上升，产业链迎来投资机会",
@@ -2390,6 +2390,168 @@
     "time": "2026-02-07",
     "org_name": "东方证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8404255",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/b4d1ea40699d877c1bad1ef2cb5d64ec.pdf",
+    "status": "success"
+  },
+  {
+    "title": "北美云厂商资本开支与AI应用专题报告：AI驱动北美云厂资本开支继续高速增长，但ROIC环比下滑",
+    "link": "https://robo.datayes.com/v2/details/report/8408050",
+    "time": "2026-02-09",
+    "org_name": "浙商证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8408050",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/1497a602e3cacfd31e5c2e8d08e976cc.pdf",
+    "status": "success"
+  },
+  {
+    "title": "互联网行业AI Agent专题：Opus 4.5开启AI Agent拐点，CPU需求迎高增",
+    "link": "https://robo.datayes.com/v2/details/report/8407805",
+    "time": "2026-02-09",
+    "org_name": "国信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8407805",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/35c8cef4e8cbfa5ce9ad91749de92e9a.pdf",
+    "status": "success"
+  },
+  {
+    "title": "非银金融行业点评报告：沪深北交易所优化再融资，资本市场服务实体经济提质增效",
+    "link": "https://robo.datayes.com/v2/details/report/8409372",
+    "time": "2026-02-10",
+    "org_name": "东吴证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8409372",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/0ede3eae4497c6e23094a03ac9b1d373.pdf",
+    "status": "success"
+  },
+  {
+    "title": "非银金融行业点评：优化再融资机制安排，扶优扶科导向明确",
+    "link": "https://robo.datayes.com/v2/details/report/8408133",
+    "time": "2026-02-09",
+    "org_name": "国联民生证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8408133",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/7f60b516b914d1590d33e6dad3b4f070.pdf",
+    "status": "success"
+  },
+  {
+    "title": "详解2025年理财年度报告：规模稳步增长，增配现金类资产",
+    "link": "https://robo.datayes.com/v2/details/report/8408070",
+    "time": "2026-02-09",
+    "org_name": "中泰证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8408070",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/8b70f317e474b236c80080c46c3293a9.pdf",
+    "status": "success"
+  },
+  {
+    "title": "电子行业点评报告：关注半导体自主可控和涨价连锁反应",
+    "link": "https://robo.datayes.com/v2/details/report/8408078",
+    "time": "2026-02-09",
+    "org_name": "开源证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8408078",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/d0bb748d961248d18f2a822d5ba97e65.pdf",
+    "status": "success"
+  },
+  {
+    "title": "国内首个金融ESG国标与可持续信息鉴证准则发布，加速推进信息披露体系标准化",
+    "link": "https://robo.datayes.com/v2/details/report/8410758",
+    "time": "2026-02-10",
+    "org_name": "浙商证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8410758",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"button:has-text('查看/下载')\").first to be visible\n"
+  },
+  {
+    "title": "驱动基因阴性NSCLC专题：下一代治疗范式：双抗、IO+ADC",
+    "link": "https://robo.datayes.com/v2/details/report/8409976",
+    "time": "2026-02-10",
+    "org_name": "西南证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8409976",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+  },
+  {
+    "title": "2026险资入市规模或达0.9万亿",
+    "link": "https://robo.datayes.com/v2/details/report/8409495",
+    "time": "2026-02-10",
+    "org_name": "华泰证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8409495",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+  },
+  {
+    "title": "食品饮料行业点评报告：供需关系有望改善，看好价格修复相关机会",
+    "link": "https://robo.datayes.com/v2/details/report/8409963",
+    "time": "2026-02-10",
+    "org_name": "银河证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8409963",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+  },
+  {
+    "title": "中药行业产业化现代化进程加快，产业集约化程度将提高",
+    "link": "https://robo.datayes.com/v2/details/report/8410236",
+    "time": "2026-02-10",
+    "org_name": "华兴证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8410236",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+  },
+  {
+    "title": "再融资优化助力发展",
+    "link": "https://robo.datayes.com/v2/details/report/8409543",
+    "time": "2026-02-10",
+    "org_name": "华泰证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8409543",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+  },
+  {
+    "title": "食品饮料行业跟踪报告：预制菜将迎国标，行业规范化加速",
+    "link": "https://robo.datayes.com/v2/details/report/8408161",
+    "time": "2026-02-10",
+    "org_name": "华创证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8408161",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+  },
+  {
+    "title": "2020-2022年锂电产业链涨价复盘：历史不会重演，但会押韵",
+    "link": "https://robo.datayes.com/v2/details/report/8409394",
+    "time": "2026-02-10",
+    "org_name": "东吴证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8409394",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+  },
+  {
+    "title": "海外云服务商：收入加速增长，资本开支高增速指引",
+    "link": "https://robo.datayes.com/v2/details/report/8407836",
+    "time": "2026-02-09",
+    "org_name": "国证国际",
+    "report_url": "https://robo.datayes.com/v2/details/report/8407836",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+  },
+  {
+    "title": "我国医保基金运行稳健，抗风险能力不断增强",
+    "link": "https://robo.datayes.com/v2/details/report/8410232",
+    "time": "2026-02-09",
+    "org_name": "华兴证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8410232",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+  },
+  {
+    "title": "PCB产业链深度报告：2025年业绩预告高增，2026年景气持续",
+    "link": "https://robo.datayes.com/v2/details/report/8411298",
+    "time": "2026-02-10",
+    "org_name": "东莞证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8411298",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+  },
+  {
+    "title": "农产品研究跟踪系列报告（194）：鸡蛋供应压力较大，奶价低迷或驱动奶牛存栏去化加速",
+    "link": "https://robo.datayes.com/v2/details/report/8410921",
+    "time": "2026-02-10",
+    "org_name": "国信证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8410921",
     "download": null,
     "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
   }

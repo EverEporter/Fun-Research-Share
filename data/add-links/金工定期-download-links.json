@@ -680,8 +680,8 @@
     "time": "2026-02-07",
     "org_name": "国泰海通",
     "report_url": "https://robo.datayes.com/v2/details/report/8404249",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/168fce2ca61a9d092945c3468e411e4f.pdf",
+    "status": "success"
   },
   {
     "title": "热点追踪周报：由创新高个股看市场投资热点（第230期）",
@@ -689,8 +689,8 @@
     "time": "2026-02-06",
     "org_name": "国信证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8402056",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/a627d254909c55e62c29f65ec6891622.pdf",
+    "status": "success"
   },
   {
     "title": "A股市场快照：宽基指数每日投资动态",
@@ -698,8 +698,8 @@
     "time": "2026-02-06",
     "org_name": "江海证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8401113",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/a54419ddfb01d7f7664b01de9671d85b.pdf",
+    "status": "success"
   },
   {
     "title": "金融工程日报：沪指缩量下跌，光伏、有色金属领跌",
@@ -707,8 +707,8 @@
     "time": "2026-02-06",
     "org_name": "国信证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8401075",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/a3d284b32a5c67cb54560d5530a9a7cf.pdf",
+    "status": "success"
   },
   {
     "title": "双融日报：鑫融讯",
@@ -716,8 +716,8 @@
     "time": "2026-02-06",
     "org_name": "华鑫证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8400117",
-    "download": null,
-    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/d44ab5d722244dce7d1562ee05325300.pdf",
+    "status": "success"
   },
   {
     "title": "金融工程日报：沪指盘尾回落，油气、金属板块回暖",
@@ -725,6 +725,87 @@
     "time": "2026-02-06",
     "org_name": "国信证券",
     "report_url": "https://robo.datayes.com/v2/details/report/8403563",
+    "download": "https://bigdata-s3.wmcloud.com/researchreport/RR17698752/964bf6470dacf24f31bb6d42e0d64ae5.pdf",
+    "status": "success"
+  },
+  {
+    "title": "高频选股因子周报（20260202-20260206）：高频因子分化，大单因子表现较好，多粒度因子继续稳定表现。AI 增强组合继续强势表现。",
+    "link": "https://robo.datayes.com/v2/details/report/8411346",
+    "time": "2026-02-10",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8411346",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"button:has-text('查看/下载')\").first to be visible\n"
+  },
+  {
+    "title": "大额买入与资金流向跟踪（20260202-20260206）",
+    "link": "https://robo.datayes.com/v2/details/report/8411308",
+    "time": "2026-02-10",
+    "org_name": "国泰海通",
+    "report_url": "https://robo.datayes.com/v2/details/report/8411308",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+  },
+  {
+    "title": "“数”看期货：大模型解读近一周卖方策略一致观点",
+    "link": "https://robo.datayes.com/v2/details/report/8410883",
+    "time": "2026-02-10",
+    "org_name": "国金证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8410883",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+  },
+  {
+    "title": "A股市场快照：宽基指数每日投资动态",
+    "link": "https://robo.datayes.com/v2/details/report/8410053",
+    "time": "2026-02-10",
+    "org_name": "江海证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8410053",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+  },
+  {
+    "title": "华鑫证券双融日报",
+    "link": "https://robo.datayes.com/v2/details/report/8409583",
+    "time": "2026-02-10",
+    "org_name": "华鑫证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8409583",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+  },
+  {
+    "title": "“打新定期跟踪”系列之二百四十七：双创板块A类打新账户数维持上行",
+    "link": "https://robo.datayes.com/v2/details/report/8409473",
+    "time": "2026-02-10",
+    "org_name": "华安证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8409473",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+  },
+  {
+    "title": "量化选基月报：申报信息ETF轮动策略本月获得18.18%超额收益率",
+    "link": "https://robo.datayes.com/v2/details/report/8408064",
+    "time": "2026-02-09",
+    "org_name": "国金证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8408064",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+  },
+  {
+    "title": "量化基金周报",
+    "link": "https://robo.datayes.com/v2/details/report/8407899",
+    "time": "2026-02-09",
+    "org_name": "银河证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8407899",
+    "download": null,
+    "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
+  },
+  {
+    "title": "主流宽基指数预期净利润复合增速周环比多数上调",
+    "link": "https://robo.datayes.com/v2/details/report/8409439",
+    "time": "2026-02-09",
+    "org_name": "首创证券",
+    "report_url": "https://robo.datayes.com/v2/details/report/8409439",
     "download": null,
     "status": "failed: timeout: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"#bianhao\") to be visible\n"
   }
